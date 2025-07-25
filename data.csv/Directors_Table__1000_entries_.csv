@@ -1,0 +1,1001 @@
+id_director,name,surname_dir,nationality
+1,Ridley,Tarantino,Mexican
+2,Alfonso,Cuarón,New Zealander
+3,Francis,Coppola,Canadian
+4,James,Jackson,New Zealander
+5,Quentin,Scott,New Zealander
+6,Alfonso,Spielberg,Canadian
+7,Alfonso,Scott,British
+8,Ridley,Fincher,New Zealander
+9,Francis,Scorsese,New Zealander
+10,Peter,Coppola,New Zealander
+11,Peter,Cameron,American
+12,Alfonso,Tarantino,New Zealander
+13,James,Fincher,Canadian
+14,David,Jackson,American
+15,Quentin,Coppola,New Zealander
+16,Martin,Tarantino,Mexican
+17,Francis,Tarantino,Canadian
+18,Ridley,Jackson,British
+19,Quentin,Jackson,American
+20,James,Cameron,Canadian
+21,Steven,Tarantino,American
+22,David,Scorsese,Mexican
+23,Alfonso,Scott,Mexican
+24,Christopher,Cuarón,New Zealander
+25,Francis,Scorsese,New Zealander
+26,Peter,Nolan,Canadian
+27,Christopher,Scorsese,Canadian
+28,Peter,Spielberg,New Zealander
+29,James,Tarantino,Canadian
+30,James,Nolan,Mexican
+31,James,Coppola,American
+32,James,Spielberg,Mexican
+33,Steven,Jackson,Mexican
+34,Peter,Tarantino,American
+35,Peter,Spielberg,New Zealander
+36,Alfonso,Tarantino,Mexican
+37,Francis,Fincher,New Zealander
+38,Peter,Cuarón,American
+39,Francis,Nolan,New Zealander
+40,Alfonso,Coppola,Mexican
+41,Christopher,Cameron,American
+42,Ridley,Cuarón,British
+43,Martin,Scorsese,Canadian
+44,David,Cameron,American
+45,Christopher,Cameron,Canadian
+46,Martin,Tarantino,Mexican
+47,Quentin,Jackson,Canadian
+48,Steven,Scott,British
+49,Ridley,Spielberg,New Zealander
+50,Quentin,Scorsese,New Zealander
+51,Martin,Spielberg,New Zealander
+52,Peter,Nolan,American
+53,Christopher,Cuarón,Canadian
+54,Quentin,Tarantino,British
+55,Martin,Nolan,British
+56,Quentin,Scorsese,British
+57,Alfonso,Tarantino,Mexican
+58,Ridley,Scorsese,Mexican
+59,Ridley,Cameron,New Zealander
+60,Alfonso,Cuarón,Mexican
+61,Peter,Nolan,Mexican
+62,Steven,Nolan,Mexican
+63,David,Scorsese,New Zealander
+64,Ridley,Coppola,Mexican
+65,Alfonso,Fincher,American
+66,Steven,Scott,Canadian
+67,Martin,Coppola,American
+68,Alfonso,Cameron,New Zealander
+69,Francis,Tarantino,American
+70,Martin,Scott,British
+71,James,Tarantino,New Zealander
+72,David,Spielberg,Mexican
+73,James,Cameron,American
+74,Christopher,Jackson,British
+75,Steven,Cuarón,New Zealander
+76,Ridley,Coppola,British
+77,Christopher,Scott,Canadian
+78,James,Nolan,British
+79,Christopher,Cuarón,American
+80,Martin,Coppola,New Zealander
+81,Alfonso,Nolan,British
+82,Martin,Fincher,British
+83,Peter,Spielberg,British
+84,Christopher,Nolan,Canadian
+85,Quentin,Tarantino,British
+86,Ridley,Tarantino,Mexican
+87,Quentin,Cameron,Canadian
+88,Francis,Cuarón,New Zealander
+89,Ridley,Coppola,American
+90,Quentin,Coppola,Mexican
+91,Christopher,Cuarón,New Zealander
+92,David,Scorsese,British
+93,James,Spielberg,American
+94,James,Cuarón,British
+95,David,Spielberg,Mexican
+96,Ridley,Fincher,New Zealander
+97,Ridley,Scott,New Zealander
+98,James,Scott,British
+99,James,Scott,Mexican
+100,Ridley,Fincher,New Zealander
+101,Martin,Cameron,British
+102,Quentin,Scorsese,New Zealander
+103,Martin,Spielberg,New Zealander
+104,Quentin,Scorsese,Canadian
+105,Francis,Jackson,American
+106,Ridley,Jackson,Mexican
+107,Francis,Spielberg,American
+108,Francis,Scorsese,New Zealander
+109,Francis,Jackson,American
+110,Francis,Tarantino,British
+111,Christopher,Nolan,Canadian
+112,Alfonso,Scott,Mexican
+113,Ridley,Spielberg,New Zealander
+114,Martin,Cameron,American
+115,James,Coppola,Canadian
+116,Christopher,Coppola,Canadian
+117,Francis,Jackson,British
+118,Steven,Cuarón,British
+119,David,Coppola,British
+120,Christopher,Jackson,New Zealander
+121,James,Spielberg,Canadian
+122,Steven,Scott,Canadian
+123,Francis,Jackson,Canadian
+124,Peter,Scott,Canadian
+125,Francis,Fincher,American
+126,Quentin,Scorsese,Canadian
+127,Ridley,Spielberg,New Zealander
+128,Christopher,Cuarón,British
+129,Francis,Cameron,New Zealander
+130,Peter,Fincher,Canadian
+131,Quentin,Spielberg,Mexican
+132,David,Fincher,British
+133,Quentin,Fincher,British
+134,Peter,Jackson,New Zealander
+135,Christopher,Nolan,Canadian
+136,Alfonso,Scott,American
+137,Quentin,Cuarón,Mexican
+138,James,Scott,British
+139,Christopher,Coppola,Canadian
+140,Francis,Nolan,American
+141,Alfonso,Coppola,American
+142,Christopher,Cameron,British
+143,Peter,Nolan,American
+144,Francis,Spielberg,American
+145,David,Cameron,New Zealander
+146,David,Coppola,New Zealander
+147,Christopher,Tarantino,British
+148,Peter,Spielberg,New Zealander
+149,Steven,Cuarón,British
+150,Steven,Nolan,British
+151,Peter,Tarantino,Mexican
+152,Martin,Tarantino,New Zealander
+153,Alfonso,Scorsese,American
+154,Quentin,Cuarón,Mexican
+155,Alfonso,Scorsese,Mexican
+156,Steven,Spielberg,American
+157,Francis,Scott,New Zealander
+158,Martin,Cuarón,American
+159,Francis,Spielberg,British
+160,James,Cuarón,Mexican
+161,Peter,Tarantino,American
+162,Quentin,Cuarón,Canadian
+163,James,Cameron,American
+164,Quentin,Tarantino,British
+165,Ridley,Cameron,Canadian
+166,David,Spielberg,American
+167,Christopher,Fincher,Canadian
+168,Peter,Nolan,British
+169,Ridley,Scott,Canadian
+170,James,Nolan,Mexican
+171,Alfonso,Scott,Canadian
+172,Christopher,Cameron,American
+173,Christopher,Scott,Mexican
+174,James,Nolan,American
+175,Peter,Scorsese,Mexican
+176,Quentin,Scorsese,Canadian
+177,Martin,Cuarón,Canadian
+178,Francis,Scorsese,Canadian
+179,James,Scott,Canadian
+180,Steven,Coppola,American
+181,Francis,Coppola,New Zealander
+182,Peter,Spielberg,Mexican
+183,David,Coppola,American
+184,David,Coppola,Canadian
+185,Peter,Scott,New Zealander
+186,Steven,Fincher,Canadian
+187,Quentin,Scorsese,Mexican
+188,David,Scorsese,British
+189,Steven,Scorsese,New Zealander
+190,Steven,Cuarón,American
+191,Christopher,Scorsese,American
+192,Steven,Cuarón,Mexican
+193,Quentin,Cuarón,New Zealander
+194,Christopher,Cuarón,Mexican
+195,Quentin,Nolan,New Zealander
+196,Peter,Cuarón,British
+197,Steven,Scott,British
+198,David,Scorsese,British
+199,James,Jackson,British
+200,Quentin,Nolan,Canadian
+201,Peter,Tarantino,American
+202,Francis,Spielberg,British
+203,Alfonso,Scott,Canadian
+204,Ridley,Cuarón,Canadian
+205,Alfonso,Cuarón,New Zealander
+206,Peter,Scott,Mexican
+207,Francis,Coppola,American
+208,Christopher,Jackson,New Zealander
+209,James,Jackson,American
+210,Quentin,Spielberg,British
+211,David,Jackson,Canadian
+212,Ridley,Scott,British
+213,James,Scott,Mexican
+214,Francis,Fincher,American
+215,Francis,Cuarón,New Zealander
+216,Martin,Jackson,British
+217,Martin,Nolan,New Zealander
+218,Ridley,Cuarón,Mexican
+219,James,Scott,American
+220,Christopher,Fincher,Canadian
+221,Martin,Jackson,Canadian
+222,James,Spielberg,New Zealander
+223,Peter,Scott,American
+224,Christopher,Jackson,Mexican
+225,Francis,Nolan,Mexican
+226,Peter,Spielberg,New Zealander
+227,Steven,Jackson,British
+228,Peter,Scorsese,American
+229,Ridley,Jackson,Canadian
+230,Ridley,Jackson,Canadian
+231,Peter,Tarantino,New Zealander
+232,James,Scott,British
+233,Steven,Tarantino,Mexican
+234,Peter,Scott,Mexican
+235,Francis,Spielberg,New Zealander
+236,Christopher,Scott,British
+237,Christopher,Fincher,British
+238,David,Nolan,American
+239,Martin,Spielberg,British
+240,James,Tarantino,Canadian
+241,Ridley,Jackson,American
+242,Francis,Cameron,New Zealander
+243,Christopher,Coppola,Mexican
+244,Quentin,Scott,American
+245,Steven,Cuarón,British
+246,Steven,Scorsese,Mexican
+247,Steven,Cuarón,New Zealander
+248,Quentin,Scott,Canadian
+249,David,Scorsese,British
+250,Quentin,Jackson,Canadian
+251,David,Cuarón,Canadian
+252,Francis,Scorsese,Canadian
+253,David,Scott,New Zealander
+254,Steven,Jackson,British
+255,Peter,Cuarón,British
+256,Alfonso,Nolan,Canadian
+257,Peter,Fincher,Mexican
+258,Christopher,Spielberg,New Zealander
+259,James,Scott,New Zealander
+260,James,Nolan,Canadian
+261,Christopher,Tarantino,New Zealander
+262,Francis,Jackson,Canadian
+263,Alfonso,Scott,Mexican
+264,Alfonso,Coppola,American
+265,James,Cameron,British
+266,David,Coppola,British
+267,Peter,Tarantino,New Zealander
+268,Christopher,Spielberg,Mexican
+269,Peter,Fincher,American
+270,Francis,Cuarón,Canadian
+271,Steven,Coppola,Mexican
+272,David,Cuarón,Canadian
+273,Ridley,Nolan,Mexican
+274,Christopher,Cameron,Canadian
+275,Peter,Spielberg,Mexican
+276,James,Scott,British
+277,David,Jackson,Mexican
+278,James,Scott,American
+279,Steven,Jackson,American
+280,Steven,Fincher,American
+281,Martin,Tarantino,New Zealander
+282,Peter,Fincher,New Zealander
+283,Quentin,Fincher,Canadian
+284,Alfonso,Scott,American
+285,Ridley,Jackson,British
+286,Christopher,Spielberg,Canadian
+287,Peter,Tarantino,British
+288,Christopher,Jackson,British
+289,Ridley,Fincher,Canadian
+290,Francis,Scorsese,British
+291,Ridley,Scorsese,Canadian
+292,Ridley,Jackson,British
+293,Steven,Jackson,British
+294,Steven,Scorsese,British
+295,Alfonso,Fincher,New Zealander
+296,Martin,Scott,Canadian
+297,Francis,Scott,British
+298,Francis,Fincher,Mexican
+299,Francis,Cuarón,American
+300,Peter,Cameron,American
+301,Martin,Scott,Mexican
+302,Steven,Tarantino,Mexican
+303,Peter,Spielberg,British
+304,David,Scorsese,Mexican
+305,Quentin,Tarantino,New Zealander
+306,Steven,Scorsese,New Zealander
+307,Steven,Scott,American
+308,Quentin,Spielberg,New Zealander
+309,David,Coppola,Canadian
+310,Steven,Spielberg,British
+311,Ridley,Scorsese,New Zealander
+312,Peter,Spielberg,British
+313,Ridley,Scott,New Zealander
+314,Francis,Tarantino,New Zealander
+315,Steven,Scorsese,New Zealander
+316,Steven,Nolan,New Zealander
+317,David,Fincher,Canadian
+318,Alfonso,Spielberg,Canadian
+319,Quentin,Fincher,New Zealander
+320,David,Spielberg,New Zealander
+321,Martin,Scott,British
+322,Quentin,Coppola,New Zealander
+323,Martin,Cameron,Canadian
+324,Steven,Cameron,British
+325,Steven,Cuarón,New Zealander
+326,Peter,Jackson,American
+327,Ridley,Cuarón,Canadian
+328,Christopher,Scorsese,Canadian
+329,Quentin,Coppola,American
+330,Martin,Spielberg,Canadian
+331,David,Cameron,American
+332,James,Tarantino,Mexican
+333,Peter,Spielberg,American
+334,Quentin,Jackson,Mexican
+335,Christopher,Cuarón,American
+336,Francis,Nolan,New Zealander
+337,Martin,Spielberg,British
+338,Steven,Spielberg,Mexican
+339,David,Coppola,Canadian
+340,Francis,Cuarón,New Zealander
+341,Alfonso,Scorsese,Canadian
+342,Steven,Cuarón,American
+343,Alfonso,Tarantino,Mexican
+344,David,Spielberg,Mexican
+345,David,Tarantino,New Zealander
+346,Francis,Cuarón,Mexican
+347,Christopher,Spielberg,New Zealander
+348,Christopher,Cuarón,New Zealander
+349,Ridley,Tarantino,Canadian
+350,David,Scorsese,New Zealander
+351,Christopher,Scott,New Zealander
+352,James,Nolan,Canadian
+353,David,Nolan,New Zealander
+354,Christopher,Tarantino,New Zealander
+355,David,Jackson,British
+356,Peter,Spielberg,Mexican
+357,Christopher,Jackson,Canadian
+358,Steven,Jackson,British
+359,Peter,Spielberg,New Zealander
+360,Francis,Tarantino,British
+361,James,Jackson,New Zealander
+362,Francis,Cuarón,Canadian
+363,James,Spielberg,Canadian
+364,Martin,Scott,Canadian
+365,Christopher,Spielberg,Mexican
+366,Peter,Scott,American
+367,Steven,Fincher,Mexican
+368,Ridley,Scott,American
+369,Quentin,Spielberg,American
+370,Alfonso,Tarantino,New Zealander
+371,Ridley,Cuarón,American
+372,Martin,Tarantino,British
+373,Martin,Scott,Mexican
+374,David,Coppola,American
+375,Ridley,Cameron,Canadian
+376,Alfonso,Fincher,Mexican
+377,Francis,Nolan,Canadian
+378,Martin,Tarantino,New Zealander
+379,Christopher,Jackson,American
+380,Ridley,Cameron,New Zealander
+381,Steven,Nolan,New Zealander
+382,Martin,Tarantino,Canadian
+383,Christopher,Scott,British
+384,Martin,Nolan,American
+385,Peter,Nolan,American
+386,Christopher,Scott,American
+387,Ridley,Tarantino,Canadian
+388,Ridley,Spielberg,New Zealander
+389,James,Scott,Mexican
+390,David,Cameron,New Zealander
+391,Quentin,Cuarón,New Zealander
+392,Alfonso,Spielberg,Mexican
+393,Francis,Cuarón,Mexican
+394,James,Scorsese,New Zealander
+395,Christopher,Cuarón,Canadian
+396,James,Coppola,American
+397,Christopher,Cuarón,American
+398,Ridley,Tarantino,British
+399,Steven,Spielberg,New Zealander
+400,Steven,Spielberg,Mexican
+401,Peter,Coppola,British
+402,Steven,Spielberg,British
+403,Peter,Cuarón,New Zealander
+404,James,Tarantino,American
+405,Martin,Scorsese,American
+406,Steven,Nolan,British
+407,Steven,Cameron,New Zealander
+408,Quentin,Jackson,Canadian
+409,Quentin,Jackson,New Zealander
+410,Quentin,Jackson,American
+411,Peter,Fincher,Mexican
+412,Quentin,Cameron,Mexican
+413,Quentin,Nolan,New Zealander
+414,Ridley,Scorsese,Canadian
+415,Peter,Cuarón,Canadian
+416,Peter,Jackson,American
+417,Ridley,Spielberg,New Zealander
+418,Christopher,Cuarón,Mexican
+419,Peter,Fincher,British
+420,Ridley,Spielberg,American
+421,James,Coppola,New Zealander
+422,James,Spielberg,Mexican
+423,Ridley,Spielberg,American
+424,Quentin,Scorsese,Mexican
+425,Steven,Fincher,Canadian
+426,Steven,Fincher,Mexican
+427,Ridley,Cameron,British
+428,David,Coppola,Canadian
+429,Ridley,Fincher,Canadian
+430,Quentin,Nolan,British
+431,Alfonso,Jackson,British
+432,David,Scorsese,Mexican
+433,Christopher,Scorsese,New Zealander
+434,Peter,Fincher,Mexican
+435,David,Coppola,British
+436,Christopher,Scorsese,Canadian
+437,Alfonso,Scott,New Zealander
+438,Ridley,Spielberg,British
+439,Martin,Cuarón,Canadian
+440,Francis,Scott,Canadian
+441,David,Jackson,British
+442,James,Nolan,Mexican
+443,Christopher,Cameron,Mexican
+444,Martin,Fincher,Mexican
+445,Peter,Jackson,Canadian
+446,Christopher,Scorsese,British
+447,Ridley,Cuarón,British
+448,Peter,Cameron,Mexican
+449,Francis,Fincher,American
+450,Steven,Fincher,New Zealander
+451,Christopher,Fincher,British
+452,Francis,Cuarón,American
+453,James,Scorsese,New Zealander
+454,Alfonso,Scott,American
+455,James,Cameron,Canadian
+456,Alfonso,Scott,British
+457,Martin,Scorsese,American
+458,Francis,Nolan,British
+459,Alfonso,Tarantino,Mexican
+460,Martin,Scott,British
+461,David,Nolan,British
+462,James,Nolan,Mexican
+463,Christopher,Fincher,Canadian
+464,Ridley,Nolan,American
+465,James,Nolan,New Zealander
+466,Francis,Fincher,Mexican
+467,Steven,Coppola,British
+468,Christopher,Cameron,American
+469,Quentin,Cuarón,Mexican
+470,Martin,Fincher,New Zealander
+471,Steven,Nolan,British
+472,Peter,Spielberg,British
+473,James,Scorsese,Canadian
+474,Alfonso,Spielberg,Mexican
+475,Francis,Coppola,American
+476,Ridley,Cameron,New Zealander
+477,Steven,Scott,British
+478,Alfonso,Jackson,Mexican
+479,Francis,Cameron,Canadian
+480,Ridley,Nolan,British
+481,Steven,Nolan,Canadian
+482,Martin,Spielberg,Canadian
+483,Steven,Coppola,New Zealander
+484,David,Scott,American
+485,Christopher,Fincher,British
+486,Steven,Fincher,American
+487,Francis,Tarantino,American
+488,Peter,Spielberg,British
+489,Francis,Tarantino,American
+490,James,Scorsese,Mexican
+491,Ridley,Cuarón,New Zealander
+492,Alfonso,Tarantino,American
+493,Francis,Jackson,American
+494,James,Fincher,Mexican
+495,Martin,Coppola,New Zealander
+496,Alfonso,Cuarón,Mexican
+497,James,Cameron,Canadian
+498,Christopher,Nolan,Canadian
+499,James,Cuarón,New Zealander
+500,Francis,Tarantino,New Zealander
+501,Quentin,Cameron,British
+502,Alfonso,Scorsese,Mexican
+503,Ridley,Jackson,Mexican
+504,David,Spielberg,American
+505,David,Fincher,British
+506,Quentin,Fincher,British
+507,Christopher,Nolan,British
+508,Christopher,Tarantino,Canadian
+509,Quentin,Coppola,Canadian
+510,Quentin,Spielberg,Mexican
+511,Martin,Jackson,New Zealander
+512,Francis,Coppola,Canadian
+513,Peter,Scorsese,New Zealander
+514,Francis,Scott,American
+515,Steven,Tarantino,Canadian
+516,Ridley,Nolan,Mexican
+517,Ridley,Cameron,American
+518,James,Coppola,British
+519,Quentin,Scorsese,American
+520,James,Spielberg,New Zealander
+521,Francis,Cuarón,American
+522,Francis,Fincher,British
+523,Alfonso,Fincher,Canadian
+524,Francis,Spielberg,American
+525,Quentin,Scorsese,British
+526,David,Cameron,Canadian
+527,Christopher,Cameron,New Zealander
+528,Quentin,Scorsese,New Zealander
+529,James,Coppola,New Zealander
+530,Christopher,Fincher,Mexican
+531,Christopher,Scott,Canadian
+532,Peter,Spielberg,Canadian
+533,Alfonso,Coppola,New Zealander
+534,Christopher,Scorsese,Canadian
+535,Peter,Jackson,American
+536,Alfonso,Nolan,British
+537,Alfonso,Spielberg,New Zealander
+538,Francis,Tarantino,American
+539,Alfonso,Jackson,American
+540,David,Jackson,British
+541,David,Tarantino,Mexican
+542,James,Fincher,New Zealander
+543,Steven,Scorsese,American
+544,Ridley,Scorsese,New Zealander
+545,Francis,Scorsese,New Zealander
+546,Francis,Scott,New Zealander
+547,Ridley,Cuarón,Canadian
+548,Steven,Tarantino,Mexican
+549,Steven,Coppola,British
+550,David,Cameron,Canadian
+551,Christopher,Scott,British
+552,Ridley,Scorsese,Canadian
+553,Quentin,Fincher,Mexican
+554,Steven,Fincher,New Zealander
+555,Francis,Coppola,American
+556,Martin,Scorsese,Canadian
+557,Peter,Cuarón,New Zealander
+558,Steven,Fincher,Mexican
+559,David,Tarantino,British
+560,David,Jackson,American
+561,Steven,Jackson,New Zealander
+562,Christopher,Fincher,British
+563,Christopher,Nolan,American
+564,Peter,Fincher,New Zealander
+565,Quentin,Nolan,American
+566,David,Spielberg,Mexican
+567,Ridley,Coppola,New Zealander
+568,David,Jackson,New Zealander
+569,Peter,Coppola,American
+570,Steven,Cuarón,New Zealander
+571,Ridley,Spielberg,British
+572,Steven,Tarantino,American
+573,Steven,Spielberg,Mexican
+574,Christopher,Spielberg,American
+575,Alfonso,Spielberg,New Zealander
+576,Alfonso,Fincher,British
+577,Peter,Fincher,Mexican
+578,Alfonso,Cuarón,Mexican
+579,David,Cameron,New Zealander
+580,Peter,Cameron,Canadian
+581,Martin,Nolan,Canadian
+582,Ridley,Spielberg,Canadian
+583,David,Tarantino,New Zealander
+584,Quentin,Tarantino,American
+585,James,Coppola,New Zealander
+586,James,Tarantino,American
+587,Francis,Cameron,British
+588,Peter,Tarantino,Mexican
+589,Steven,Cameron,Canadian
+590,Martin,Fincher,Canadian
+591,Martin,Fincher,Mexican
+592,Martin,Nolan,British
+593,James,Tarantino,Mexican
+594,Ridley,Coppola,Canadian
+595,Ridley,Scorsese,British
+596,Steven,Cameron,British
+597,Peter,Cuarón,British
+598,Steven,Coppola,Mexican
+599,David,Fincher,Canadian
+600,Alfonso,Tarantino,Canadian
+601,Quentin,Cuarón,American
+602,Alfonso,Scorsese,Canadian
+603,Alfonso,Fincher,British
+604,Christopher,Cuarón,British
+605,Steven,Nolan,British
+606,Christopher,Spielberg,Mexican
+607,Martin,Nolan,New Zealander
+608,James,Nolan,Mexican
+609,Alfonso,Tarantino,New Zealander
+610,David,Jackson,New Zealander
+611,David,Cameron,Canadian
+612,James,Tarantino,American
+613,James,Scorsese,American
+614,Christopher,Tarantino,American
+615,Ridley,Nolan,Canadian
+616,Peter,Scott,Mexican
+617,Alfonso,Cameron,New Zealander
+618,James,Nolan,Mexican
+619,Ridley,Scorsese,New Zealander
+620,Alfonso,Tarantino,British
+621,Martin,Scott,British
+622,Alfonso,Cuarón,Mexican
+623,Francis,Fincher,Canadian
+624,James,Fincher,Canadian
+625,Martin,Spielberg,Canadian
+626,Francis,Cuarón,British
+627,Quentin,Coppola,Canadian
+628,David,Fincher,New Zealander
+629,David,Cameron,New Zealander
+630,Martin,Scorsese,American
+631,Alfonso,Tarantino,British
+632,Francis,Cuarón,British
+633,Ridley,Scott,British
+634,Martin,Spielberg,American
+635,Quentin,Jackson,Canadian
+636,Alfonso,Nolan,British
+637,David,Cameron,British
+638,Alfonso,Scott,New Zealander
+639,David,Nolan,British
+640,Martin,Tarantino,British
+641,Ridley,Cuarón,American
+642,Ridley,Nolan,New Zealander
+643,David,Spielberg,Canadian
+644,James,Jackson,New Zealander
+645,Alfonso,Nolan,American
+646,Alfonso,Cuarón,New Zealander
+647,James,Nolan,Mexican
+648,Quentin,Scorsese,British
+649,James,Scott,Mexican
+650,Steven,Coppola,New Zealander
+651,Quentin,Nolan,Mexican
+652,Francis,Cameron,Canadian
+653,Ridley,Tarantino,Mexican
+654,David,Scorsese,Mexican
+655,Ridley,Scott,British
+656,Quentin,Spielberg,New Zealander
+657,James,Spielberg,New Zealander
+658,Quentin,Scorsese,Canadian
+659,James,Coppola,Canadian
+660,Steven,Cuarón,New Zealander
+661,Ridley,Scorsese,New Zealander
+662,David,Spielberg,American
+663,Steven,Scott,Canadian
+664,Steven,Cameron,Canadian
+665,Christopher,Nolan,New Zealander
+666,Christopher,Jackson,British
+667,Peter,Cameron,Canadian
+668,Francis,Cameron,Mexican
+669,Martin,Fincher,American
+670,Francis,Scott,New Zealander
+671,Peter,Cuarón,New Zealander
+672,Martin,Jackson,Canadian
+673,James,Coppola,Mexican
+674,Steven,Tarantino,British
+675,James,Spielberg,Mexican
+676,James,Cuarón,American
+677,David,Scorsese,New Zealander
+678,Christopher,Tarantino,Mexican
+679,Ridley,Cameron,New Zealander
+680,Quentin,Cuarón,Mexican
+681,Ridley,Jackson,British
+682,Francis,Fincher,Canadian
+683,Christopher,Nolan,American
+684,David,Nolan,Mexican
+685,Martin,Jackson,Mexican
+686,Francis,Tarantino,Canadian
+687,Quentin,Tarantino,New Zealander
+688,Francis,Nolan,Mexican
+689,Steven,Coppola,Mexican
+690,Christopher,Scott,Mexican
+691,Ridley,Fincher,American
+692,Steven,Tarantino,Canadian
+693,James,Fincher,Mexican
+694,Martin,Scott,Canadian
+695,Quentin,Spielberg,British
+696,Alfonso,Coppola,Mexican
+697,Christopher,Scorsese,American
+698,Martin,Tarantino,New Zealander
+699,Ridley,Coppola,New Zealander
+700,Christopher,Jackson,Canadian
+701,Francis,Nolan,American
+702,Ridley,Cameron,Mexican
+703,David,Fincher,Mexican
+704,Steven,Nolan,American
+705,Alfonso,Spielberg,Canadian
+706,Ridley,Fincher,Mexican
+707,Alfonso,Scott,Canadian
+708,Ridley,Fincher,American
+709,Ridley,Nolan,Mexican
+710,Steven,Tarantino,American
+711,Alfonso,Scott,American
+712,Francis,Scott,Mexican
+713,Peter,Scott,Canadian
+714,Martin,Cameron,American
+715,David,Coppola,Canadian
+716,Martin,Scorsese,New Zealander
+717,Francis,Nolan,Mexican
+718,Steven,Scorsese,Canadian
+719,David,Nolan,American
+720,David,Spielberg,American
+721,Alfonso,Cameron,American
+722,Quentin,Coppola,Mexican
+723,David,Spielberg,British
+724,Martin,Coppola,Canadian
+725,Steven,Jackson,British
+726,Peter,Scorsese,British
+727,Martin,Jackson,New Zealander
+728,Alfonso,Fincher,Canadian
+729,David,Nolan,British
+730,Francis,Cameron,British
+731,Francis,Cameron,American
+732,Martin,Cameron,New Zealander
+733,Martin,Tarantino,American
+734,Francis,Cuarón,British
+735,Quentin,Cameron,Canadian
+736,Ridley,Tarantino,New Zealander
+737,Christopher,Jackson,British
+738,Steven,Fincher,British
+739,James,Nolan,New Zealander
+740,Alfonso,Cameron,Canadian
+741,David,Coppola,Mexican
+742,David,Cuarón,British
+743,Alfonso,Scorsese,British
+744,Quentin,Cuarón,American
+745,Ridley,Jackson,British
+746,David,Jackson,Canadian
+747,Peter,Jackson,British
+748,Christopher,Scott,Canadian
+749,David,Fincher,British
+750,Francis,Fincher,British
+751,David,Scott,Canadian
+752,David,Scott,New Zealander
+753,Ridley,Nolan,British
+754,James,Scott,Canadian
+755,Christopher,Nolan,British
+756,James,Cuarón,Canadian
+757,Ridley,Coppola,American
+758,Francis,Cameron,Canadian
+759,Alfonso,Scorsese,Canadian
+760,James,Spielberg,Mexican
+761,Ridley,Scott,British
+762,Francis,Tarantino,Mexican
+763,Martin,Jackson,Canadian
+764,Christopher,Cameron,British
+765,James,Tarantino,American
+766,Ridley,Cameron,American
+767,Martin,Scott,Mexican
+768,Peter,Fincher,Canadian
+769,James,Coppola,Canadian
+770,Christopher,Cameron,British
+771,Francis,Fincher,American
+772,Quentin,Spielberg,Canadian
+773,James,Fincher,British
+774,Alfonso,Spielberg,American
+775,Ridley,Cameron,British
+776,Christopher,Scorsese,Mexican
+777,Steven,Scorsese,Mexican
+778,Martin,Coppola,American
+779,Francis,Jackson,British
+780,Steven,Nolan,Canadian
+781,Alfonso,Nolan,New Zealander
+782,Quentin,Cuarón,New Zealander
+783,Steven,Fincher,American
+784,Steven,Fincher,American
+785,Martin,Scott,Mexican
+786,James,Spielberg,American
+787,Francis,Jackson,Mexican
+788,Martin,Spielberg,New Zealander
+789,Martin,Scorsese,Canadian
+790,Quentin,Spielberg,New Zealander
+791,David,Nolan,New Zealander
+792,David,Coppola,New Zealander
+793,Quentin,Scott,New Zealander
+794,James,Fincher,British
+795,Francis,Tarantino,British
+796,Christopher,Jackson,American
+797,Christopher,Tarantino,British
+798,Alfonso,Cameron,Mexican
+799,Steven,Fincher,American
+800,Peter,Cuarón,British
+801,Alfonso,Tarantino,New Zealander
+802,Martin,Cuarón,Canadian
+803,Martin,Spielberg,British
+804,Alfonso,Spielberg,British
+805,Ridley,Nolan,Mexican
+806,Christopher,Scott,New Zealander
+807,Steven,Nolan,Canadian
+808,David,Coppola,New Zealander
+809,Peter,Jackson,Mexican
+810,Ridley,Tarantino,Canadian
+811,Martin,Nolan,American
+812,Martin,Scorsese,Canadian
+813,Quentin,Cuarón,Mexican
+814,Peter,Fincher,New Zealander
+815,Ridley,Nolan,Mexican
+816,Quentin,Spielberg,British
+817,Alfonso,Coppola,Mexican
+818,Martin,Jackson,American
+819,James,Tarantino,American
+820,Christopher,Fincher,American
+821,Christopher,Cuarón,American
+822,Francis,Jackson,American
+823,Ridley,Nolan,British
+824,Martin,Nolan,American
+825,Martin,Spielberg,New Zealander
+826,Alfonso,Tarantino,British
+827,Christopher,Scorsese,New Zealander
+828,Alfonso,Coppola,New Zealander
+829,Martin,Cameron,British
+830,Martin,Coppola,Mexican
+831,James,Fincher,New Zealander
+832,Quentin,Fincher,New Zealander
+833,Steven,Scorsese,American
+834,James,Scorsese,Canadian
+835,Steven,Scorsese,New Zealander
+836,Francis,Jackson,New Zealander
+837,David,Scorsese,Mexican
+838,Steven,Cuarón,Canadian
+839,Christopher,Scorsese,American
+840,Ridley,Coppola,New Zealander
+841,Alfonso,Fincher,Mexican
+842,Francis,Coppola,Canadian
+843,David,Cuarón,Canadian
+844,Alfonso,Cuarón,Canadian
+845,Peter,Spielberg,British
+846,James,Cuarón,Canadian
+847,Alfonso,Scott,Mexican
+848,Alfonso,Fincher,American
+849,Ridley,Coppola,Canadian
+850,Steven,Tarantino,Mexican
+851,Christopher,Spielberg,British
+852,Ridley,Spielberg,Canadian
+853,David,Fincher,Canadian
+854,Christopher,Scorsese,American
+855,Steven,Tarantino,New Zealander
+856,Christopher,Scorsese,Canadian
+857,Martin,Fincher,Canadian
+858,Francis,Scott,British
+859,Francis,Jackson,British
+860,Peter,Spielberg,American
+861,Ridley,Nolan,Canadian
+862,David,Nolan,Canadian
+863,Quentin,Scorsese,New Zealander
+864,Alfonso,Scott,British
+865,Christopher,Scorsese,American
+866,Peter,Nolan,Canadian
+867,Peter,Jackson,Mexican
+868,Alfonso,Cameron,American
+869,Alfonso,Coppola,Mexican
+870,Peter,Scorsese,American
+871,Christopher,Cuarón,British
+872,David,Scott,British
+873,James,Tarantino,British
+874,Quentin,Cameron,Mexican
+875,Martin,Coppola,Canadian
+876,Martin,Scorsese,American
+877,Francis,Scorsese,Canadian
+878,Quentin,Scott,Mexican
+879,Francis,Tarantino,British
+880,Steven,Jackson,Mexican
+881,David,Spielberg,Canadian
+882,Ridley,Scott,British
+883,Martin,Scorsese,American
+884,Martin,Tarantino,Canadian
+885,Alfonso,Nolan,British
+886,Steven,Scorsese,Mexican
+887,Ridley,Spielberg,New Zealander
+888,Quentin,Cameron,Mexican
+889,Quentin,Cameron,British
+890,David,Fincher,Canadian
+891,Alfonso,Spielberg,American
+892,Peter,Cuarón,American
+893,David,Coppola,Mexican
+894,Alfonso,Tarantino,New Zealander
+895,Martin,Nolan,New Zealander
+896,Quentin,Cuarón,Mexican
+897,Peter,Nolan,American
+898,James,Fincher,American
+899,Martin,Cuarón,Mexican
+900,Martin,Coppola,New Zealander
+901,David,Cuarón,Mexican
+902,Alfonso,Coppola,Mexican
+903,Quentin,Tarantino,New Zealander
+904,Steven,Spielberg,British
+905,Ridley,Fincher,British
+906,Quentin,Cameron,Mexican
+907,James,Coppola,Canadian
+908,Christopher,Tarantino,American
+909,Alfonso,Cuarón,American
+910,Francis,Jackson,Mexican
+911,Steven,Nolan,Canadian
+912,David,Spielberg,New Zealander
+913,Francis,Fincher,British
+914,Steven,Spielberg,Canadian
+915,Quentin,Scorsese,New Zealander
+916,Steven,Coppola,Canadian
+917,Steven,Fincher,Mexican
+918,Christopher,Scott,Canadian
+919,Alfonso,Scott,American
+920,David,Nolan,Mexican
+921,Francis,Cameron,British
+922,Quentin,Scott,American
+923,Christopher,Cameron,American
+924,Martin,Nolan,Mexican
+925,Martin,Fincher,New Zealander
+926,James,Cameron,Canadian
+927,Peter,Tarantino,American
+928,Alfonso,Jackson,Mexican
+929,David,Scott,New Zealander
+930,Steven,Jackson,New Zealander
+931,James,Spielberg,Canadian
+932,Martin,Scorsese,New Zealander
+933,Martin,Scott,Mexican
+934,James,Scott,New Zealander
+935,Martin,Tarantino,British
+936,Steven,Fincher,British
+937,James,Spielberg,British
+938,Francis,Coppola,New Zealander
+939,Martin,Nolan,New Zealander
+940,James,Scorsese,Canadian
+941,Peter,Tarantino,New Zealander
+942,David,Nolan,New Zealander
+943,Ridley,Cameron,Mexican
+944,Alfonso,Tarantino,Canadian
+945,Christopher,Fincher,American
+946,Quentin,Cuarón,American
+947,Ridley,Cameron,American
+948,David,Scott,British
+949,Alfonso,Jackson,Mexican
+950,David,Scott,New Zealander
+951,Alfonso,Spielberg,American
+952,Ridley,Cameron,British
+953,Peter,Cameron,Canadian
+954,Alfonso,Cameron,American
+955,Quentin,Fincher,Mexican
+956,Francis,Jackson,British
+957,Peter,Coppola,British
+958,Steven,Nolan,Canadian
+959,Ridley,Scorsese,British
+960,Ridley,Nolan,Mexican
+961,Christopher,Scorsese,Canadian
+962,Martin,Cuarón,New Zealander
+963,James,Cameron,British
+964,Christopher,Jackson,New Zealander
+965,Ridley,Nolan,British
+966,Martin,Coppola,New Zealander
+967,Quentin,Spielberg,American
+968,David,Jackson,Mexican
+969,James,Scorsese,New Zealander
+970,Quentin,Spielberg,British
+971,Christopher,Coppola,Canadian
+972,Francis,Jackson,Mexican
+973,David,Cameron,Mexican
+974,James,Scott,Canadian
+975,Steven,Jackson,Mexican
+976,James,Scott,British
+977,Christopher,Cuarón,New Zealander
+978,Francis,Nolan,New Zealander
+979,Quentin,Tarantino,American
+980,David,Cameron,American
+981,David,Scott,Mexican
+982,James,Tarantino,New Zealander
+983,Steven,Nolan,Canadian
+984,Francis,Scorsese,British
+985,David,Coppola,American
+986,Ridley,Spielberg,British
+987,Steven,Coppola,New Zealander
+988,Martin,Fincher,British
+989,James,Scott,Mexican
+990,James,Scorsese,New Zealander
+991,Peter,Fincher,Mexican
+992,Alfonso,Cuarón,British
+993,Christopher,Fincher,New Zealander
+994,Francis,Scorsese,New Zealander
+995,Peter,Tarantino,Canadian
+996,Peter,Scorsese,American
+997,David,Scorsese,Mexican
+998,Francis,Cuarón,American
+999,Peter,Cameron,Canadian
+1000,Christopher,Scorsese,New Zealander
