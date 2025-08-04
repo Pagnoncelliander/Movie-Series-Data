@@ -1,0 +1,1001 @@
+id_series,name,genre,qualification,protagonist_name,protagonist_surname,director_surname,seasons,id_protagonist,id_director
+1,The Mandalorian,Drama,8.7,Leonardo,Hanks,Spielberg,8,1,809
+2,The Office,Fantasy,8.3,Emma,Hemsworth,Cameron,4,2,124
+3,Breaking Bad,Action,9.3,Robert,Hanks,Nolan,8,3,978
+4,Dark,Sci-Fi,9.3,Chris,Downey,Cuarón,1,4,144
+5,The Office,Action,7.2,Angelina,Portman,Scott,10,5,335
+6,The Mandalorian,Comedy,8.2,Robert,Hanks,Fincher,4,6,695
+7,WandaVision,Drama,8.0,Chris,Pitt,Scorsese,6,7,622
+8,The Crown,Sci-Fi,7.9,Jennifer,Downey,Cameron,4,8,379
+9,Stranger Things,Comedy,7.5,Natalie,Pitt,Nolan,6,9,197
+10,Stranger Things,Comedy,7.3,Tom,Jolie,Tarantino,3,10,150
+11,Loki,Comedy,7.5,Tom,Lawrence,Cameron,4,11,279
+12,Dark,Action,8.0,Tom,Hemsworth,Coppola,7,12,587
+13,Game of Thrones,Drama,7.8,Emma,Lawrence,Fincher,5,13,637
+14,Stranger Things,Fantasy,7.3,Scarlett,Hemsworth,Spielberg,10,14,374
+15,The Crown,Drama,7.4,Leonardo,Watson,Spielberg,3,15,851
+16,Friends,Drama,7.1,Natalie,Hanks,Cuarón,2,16,11
+17,Dark,Comedy,9.2,Tom,Johansson,Scorsese,1,17,789
+18,Loki,Sci-Fi,8.7,Tom,DiCaprio,Cuarón,4,18,195
+19,Breaking Bad,Comedy,8.2,Jennifer,Watson,Scott,1,19,712
+20,Game of Thrones,Drama,9.1,Natalie,Portman,Scorsese,3,20,724
+21,Breaking Bad,Action,7.9,Natalie,Hemsworth,Nolan,10,21,983
+22,Stranger Things,Sci-Fi,8.2,Natalie,Portman,Jackson,9,22,683
+23,Stranger Things,Sci-Fi,9.3,Emma,Lawrence,Coppola,5,23,114
+24,Dark,Drama,8.0,Angelina,Hanks,Tarantino,8,24,767
+25,Friends,Action,9.3,Natalie,Johansson,Nolan,6,25,111
+26,Dark,Fantasy,7.3,Scarlett,DiCaprio,Scorsese,5,26,545
+27,WandaVision,Comedy,9.1,Tom,Portman,Nolan,7,27,461
+28,The Office,Action,7.4,Leonardo,Hanks,Scorsese,9,28,903
+29,Loki,Action,9.3,Brad,Lawrence,Coppola,7,29,559
+30,WandaVision,Fantasy,8.2,Scarlett,Pitt,Scott,5,30,32
+31,Stranger Things,Comedy,8.4,Robert,Lawrence,Coppola,1,31,45
+32,The Crown,Action,7.1,Jennifer,Pitt,Tarantino,8,32,6
+33,Breaking Bad,Comedy,8.5,Scarlett,Watson,Fincher,8,33,746
+34,Dark,Action,7.4,Chris,Portman,Tarantino,8,34,500
+35,Game of Thrones,Drama,7.2,Angelina,DiCaprio,Scorsese,3,35,597
+36,WandaVision,Drama,8.4,Angelina,Hemsworth,Nolan,4,36,569
+37,Friends,Comedy,8.0,Angelina,Portman,Cameron,4,37,919
+38,The Crown,Sci-Fi,7.2,Chris,DiCaprio,Spielberg,6,38,241
+39,Dark,Fantasy,8.9,Angelina,Hanks,Spielberg,10,39,481
+40,The Mandalorian,Comedy,7.8,Angelina,Watson,Spielberg,6,40,346
+41,Stranger Things,Action,7.4,Jennifer,Portman,Tarantino,1,41,653
+42,The Office,Action,7.0,Scarlett,Hanks,Coppola,1,42,217
+43,Friends,Fantasy,7.7,Natalie,Hanks,Scorsese,1,43,633
+44,Breaking Bad,Sci-Fi,9.4,Robert,DiCaprio,Cuarón,8,44,746
+45,Game of Thrones,Comedy,9.4,Scarlett,Watson,Cuarón,3,45,319
+46,Loki,Action,7.0,Angelina,Pitt,Nolan,4,46,143
+47,The Office,Fantasy,7.7,Angelina,Watson,Cameron,5,47,36
+48,Loki,Sci-Fi,8.1,Emma,Watson,Coppola,6,48,642
+49,Breaking Bad,Sci-Fi,8.4,Tom,Jolie,Cameron,10,49,180
+50,The Mandalorian,Sci-Fi,7.9,Angelina,Jolie,Spielberg,4,50,288
+51,The Crown,Drama,8.8,Scarlett,Portman,Nolan,1,51,293
+52,Breaking Bad,Sci-Fi,7.7,Leonardo,Pitt,Tarantino,9,52,305
+53,Stranger Things,Fantasy,8.7,Scarlett,Hanks,Cuarón,5,53,867
+54,Loki,Comedy,9.2,Angelina,Pitt,Scorsese,3,54,848
+55,Game of Thrones,Comedy,7.2,Chris,Johansson,Cuarón,8,55,838
+56,Game of Thrones,Sci-Fi,8.7,Leonardo,Jolie,Scott,8,56,181
+57,The Office,Drama,9.3,Natalie,Watson,Jackson,6,57,393
+58,Game of Thrones,Drama,8.2,Jennifer,Lawrence,Jackson,9,58,352
+59,Breaking Bad,Sci-Fi,8.9,Emma,Downey,Fincher,2,59,603
+60,Game of Thrones,Comedy,9.4,Tom,Portman,Scott,3,60,384
+61,WandaVision,Drama,8.4,Chris,Hanks,Scott,6,61,527
+62,Loki,Action,7.5,Natalie,DiCaprio,Tarantino,8,62,597
+63,The Office,Fantasy,7.1,Angelina,Pitt,Scorsese,6,63,779
+64,Game of Thrones,Sci-Fi,7.4,Emma,Lawrence,Scott,5,64,770
+65,Breaking Bad,Fantasy,8.9,Scarlett,Pitt,Coppola,9,65,341
+66,Dark,Action,7.3,Angelina,Pitt,Spielberg,5,66,130
+67,Friends,Comedy,9.1,Robert,Downey,Spielberg,2,67,981
+68,Loki,Comedy,7.9,Natalie,DiCaprio,Cameron,6,68,929
+69,Dark,Action,7.0,Chris,Jolie,Cuarón,1,69,765
+70,The Crown,Sci-Fi,8.4,Scarlett,Lawrence,Cameron,4,70,342
+71,Game of Thrones,Fantasy,7.5,Natalie,Portman,Tarantino,9,71,4
+72,Stranger Things,Sci-Fi,9.2,Jennifer,DiCaprio,Fincher,10,72,490
+73,Dark,Fantasy,9.5,Emma,Jolie,Fincher,10,73,779
+74,Dark,Sci-Fi,8.4,Emma,Lawrence,Tarantino,6,74,238
+75,The Office,Sci-Fi,7.3,Tom,Hemsworth,Tarantino,3,75,561
+76,WandaVision,Comedy,9.4,Emma,Jolie,Scorsese,10,76,94
+77,Breaking Bad,Fantasy,8.7,Emma,Downey,Nolan,5,77,69
+78,Breaking Bad,Drama,9.4,Natalie,Watson,Coppola,1,78,103
+79,Game of Thrones,Fantasy,7.2,Leonardo,DiCaprio,Scorsese,5,79,79
+80,The Crown,Action,7.8,Angelina,Jolie,Coppola,8,80,137
+81,Loki,Comedy,7.6,Natalie,DiCaprio,Cameron,4,81,280
+82,Stranger Things,Action,7.8,Leonardo,Lawrence,Jackson,10,82,283
+83,WandaVision,Fantasy,7.7,Jennifer,Jolie,Cameron,10,83,292
+84,The Crown,Sci-Fi,8.2,Tom,Downey,Jackson,4,84,531
+85,Loki,Fantasy,7.7,Robert,Hanks,Tarantino,7,85,228
+86,Loki,Sci-Fi,7.4,Natalie,Jolie,Spielberg,4,86,970
+87,Breaking Bad,Fantasy,9.5,Robert,Lawrence,Coppola,4,87,426
+88,Dark,Fantasy,9.3,Leonardo,Downey,Scott,8,88,177
+89,Dark,Drama,8.9,Angelina,Hemsworth,Coppola,3,89,271
+90,Game of Thrones,Comedy,8.5,Emma,DiCaprio,Coppola,6,90,165
+91,Stranger Things,Drama,7.6,Angelina,DiCaprio,Jackson,8,91,520
+92,Stranger Things,Comedy,9.5,Robert,Downey,Fincher,3,92,102
+93,Dark,Fantasy,9.0,Brad,Pitt,Fincher,3,93,693
+94,Game of Thrones,Fantasy,7.1,Brad,Downey,Scott,10,94,378
+95,Game of Thrones,Fantasy,8.6,Jennifer,Hanks,Fincher,5,95,221
+96,The Office,Action,8.7,Angelina,Johansson,Spielberg,7,96,705
+97,Friends,Sci-Fi,8.0,Tom,Watson,Nolan,4,97,676
+98,Friends,Fantasy,7.8,Tom,Downey,Fincher,10,98,738
+99,The Mandalorian,Comedy,8.2,Tom,Jolie,Cuarón,10,99,667
+100,Loki,Drama,8.5,Chris,Hanks,Cameron,9,100,796
+101,Stranger Things,Action,7.4,Angelina,Johansson,Cuarón,8,101,900
+102,Dark,Action,7.0,Scarlett,Hemsworth,Spielberg,9,102,491
+103,WandaVision,Drama,7.7,Tom,Hanks,Coppola,1,103,49
+104,The Crown,Action,7.5,Angelina,Downey,Cameron,9,104,479
+105,Game of Thrones,Action,8.3,Angelina,Hanks,Scorsese,2,105,581
+106,The Office,Comedy,7.4,Emma,Hanks,Scott,8,106,795
+107,Stranger Things,Sci-Fi,8.0,Scarlett,Lawrence,Scott,8,107,523
+108,Game of Thrones,Comedy,7.9,Tom,Watson,Coppola,2,108,777
+109,Loki,Drama,7.4,Jennifer,Johansson,Spielberg,4,109,501
+110,The Office,Drama,8.7,Jennifer,Portman,Jackson,7,110,669
+111,Dark,Drama,7.4,Scarlett,Jolie,Jackson,5,111,313
+112,The Mandalorian,Drama,7.4,Robert,Watson,Coppola,2,112,750
+113,The Office,Fantasy,7.1,Chris,Hemsworth,Cuarón,9,113,686
+114,Dark,Drama,8.3,Chris,Jolie,Coppola,1,114,19
+115,Game of Thrones,Action,9.0,Brad,Jolie,Scott,3,115,572
+116,The Office,Fantasy,8.9,Brad,Hanks,Fincher,5,116,227
+117,Dark,Comedy,9.1,Jennifer,Jolie,Coppola,3,117,386
+118,WandaVision,Fantasy,7.8,Tom,Johansson,Nolan,10,118,875
+119,Breaking Bad,Sci-Fi,7.6,Tom,Downey,Tarantino,2,119,578
+120,Friends,Action,7.4,Natalie,Hanks,Scott,3,120,280
+121,Game of Thrones,Drama,7.8,Brad,Downey,Coppola,9,121,476
+122,WandaVision,Sci-Fi,8.1,Jennifer,Johansson,Spielberg,10,122,716
+123,The Office,Action,8.3,Scarlett,Lawrence,Cameron,4,123,641
+124,Friends,Drama,7.3,Angelina,Lawrence,Nolan,6,124,327
+125,Friends,Sci-Fi,8.6,Brad,Portman,Jackson,6,125,315
+126,Breaking Bad,Sci-Fi,8.8,Natalie,Hemsworth,Scorsese,3,126,831
+127,The Crown,Comedy,8.1,Scarlett,Hanks,Scott,6,127,444
+128,Game of Thrones,Sci-Fi,8.0,Scarlett,Portman,Scorsese,4,128,136
+129,The Office,Action,7.5,Angelina,Lawrence,Spielberg,1,129,17
+130,Breaking Bad,Sci-Fi,8.3,Emma,Watson,Scorsese,2,130,677
+131,The Crown,Fantasy,7.3,Jennifer,Hanks,Fincher,6,131,571
+132,Dark,Drama,7.4,Angelina,Downey,Cuarón,10,132,784
+133,The Crown,Drama,7.5,Angelina,Lawrence,Scott,10,133,296
+134,The Office,Drama,7.4,Brad,Downey,Cameron,9,134,661
+135,Loki,Comedy,8.9,Angelina,Johansson,Spielberg,1,135,675
+136,WandaVision,Sci-Fi,8.8,Brad,Johansson,Spielberg,4,136,601
+137,Breaking Bad,Fantasy,7.1,Emma,Watson,Coppola,4,137,632
+138,Loki,Action,8.6,Emma,DiCaprio,Cameron,9,138,91
+139,Stranger Things,Comedy,7.5,Brad,Hemsworth,Spielberg,9,139,827
+140,The Office,Fantasy,8.5,Chris,Pitt,Scorsese,2,140,114
+141,The Crown,Comedy,8.3,Natalie,Watson,Tarantino,5,141,428
+142,The Office,Action,8.4,Natalie,Downey,Coppola,4,142,639
+143,The Mandalorian,Fantasy,8.9,Tom,Watson,Fincher,5,143,627
+144,Loki,Comedy,7.9,Scarlett,Portman,Coppola,4,144,820
+145,Dark,Drama,7.1,Angelina,DiCaprio,Cuarón,4,145,802
+146,Breaking Bad,Drama,8.5,Brad,Watson,Scott,10,146,974
+147,Breaking Bad,Comedy,7.7,Angelina,Downey,Tarantino,10,147,836
+148,Friends,Action,7.9,Leonardo,Pitt,Spielberg,10,148,532
+149,The Mandalorian,Action,9.1,Chris,Hanks,Scott,1,149,399
+150,The Mandalorian,Action,8.4,Leonardo,Jolie,Scott,2,150,316
+151,Stranger Things,Sci-Fi,9.5,Tom,Lawrence,Spielberg,10,151,314
+152,Friends,Sci-Fi,8.9,Angelina,Pitt,Nolan,9,152,771
+153,Friends,Drama,7.0,Angelina,Downey,Scott,2,153,575
+154,Dark,Sci-Fi,7.5,Leonardo,Hemsworth,Scorsese,10,154,448
+155,The Mandalorian,Action,7.2,Leonardo,Johansson,Coppola,8,155,848
+156,Loki,Comedy,8.4,Emma,Downey,Cameron,7,156,899
+157,Stranger Things,Fantasy,7.7,Angelina,Portman,Jackson,4,157,860
+158,Loki,Comedy,8.0,Jennifer,Johansson,Spielberg,6,158,387
+159,Stranger Things,Sci-Fi,7.5,Leonardo,Jolie,Nolan,3,159,983
+160,Friends,Action,8.4,Brad,Johansson,Scott,4,160,757
+161,The Office,Comedy,9.1,Emma,Pitt,Fincher,4,161,429
+162,Breaking Bad,Fantasy,7.8,Scarlett,Portman,Nolan,9,162,545
+163,Dark,Drama,8.6,Leonardo,Hanks,Spielberg,7,163,740
+164,Dark,Drama,8.2,Brad,Pitt,Scorsese,4,164,919
+165,The Crown,Fantasy,7.0,Tom,Portman,Nolan,4,165,678
+166,The Crown,Comedy,8.5,Brad,Jolie,Cuarón,8,166,335
+167,Friends,Drama,9.3,Scarlett,Pitt,Fincher,5,167,59
+168,Loki,Sci-Fi,7.3,Emma,DiCaprio,Jackson,10,168,757
+169,Loki,Sci-Fi,8.6,Scarlett,Pitt,Tarantino,3,169,304
+170,Game of Thrones,Comedy,7.5,Natalie,Watson,Fincher,5,170,892
+171,Friends,Comedy,8.3,Chris,Johansson,Nolan,4,171,328
+172,Stranger Things,Action,7.9,Natalie,Hemsworth,Spielberg,7,172,305
+173,WandaVision,Sci-Fi,8.2,Natalie,Pitt,Nolan,10,173,496
+174,Game of Thrones,Sci-Fi,7.9,Leonardo,Jolie,Coppola,9,174,330
+175,Stranger Things,Comedy,8.8,Jennifer,Portman,Nolan,10,175,752
+176,The Crown,Comedy,8.9,Angelina,Watson,Tarantino,2,176,134
+177,The Office,Comedy,7.9,Emma,Portman,Cameron,7,177,411
+178,The Crown,Comedy,9.0,Natalie,Watson,Cuarón,1,178,280
+179,Loki,Action,7.8,Tom,Lawrence,Fincher,6,179,907
+180,WandaVision,Sci-Fi,7.8,Chris,Downey,Cuarón,2,180,598
+181,Dark,Drama,7.1,Natalie,Portman,Fincher,5,181,341
+182,Stranger Things,Sci-Fi,7.8,Natalie,Jolie,Scott,7,182,784
+183,WandaVision,Comedy,9.5,Natalie,Watson,Spielberg,4,183,310
+184,Loki,Fantasy,8.8,Angelina,Hemsworth,Jackson,5,184,873
+185,Friends,Drama,7.6,Leonardo,Portman,Fincher,7,185,973
+186,Dark,Sci-Fi,8.5,Scarlett,Downey,Jackson,4,186,745
+187,Loki,Drama,8.2,Angelina,Hemsworth,Cameron,4,187,465
+188,WandaVision,Fantasy,7.7,Natalie,Downey,Spielberg,6,188,293
+189,The Office,Drama,8.7,Tom,Jolie,Coppola,4,189,580
+190,WandaVision,Sci-Fi,8.8,Robert,Portman,Scott,5,190,1000
+191,The Crown,Fantasy,8.7,Robert,Hemsworth,Tarantino,6,191,969
+192,Friends,Sci-Fi,9.1,Robert,Johansson,Nolan,9,192,755
+193,The Crown,Sci-Fi,7.9,Tom,Jolie,Spielberg,1,193,627
+194,Dark,Fantasy,8.3,Scarlett,DiCaprio,Cuarón,6,194,533
+195,The Office,Fantasy,7.8,Emma,Watson,Nolan,3,195,910
+196,The Crown,Sci-Fi,8.9,Brad,Johansson,Cuarón,6,196,878
+197,The Crown,Sci-Fi,7.8,Scarlett,Downey,Spielberg,7,197,217
+198,WandaVision,Fantasy,9.3,Jennifer,Hanks,Fincher,10,198,625
+199,WandaVision,Drama,7.8,Scarlett,Hemsworth,Cameron,7,199,638
+200,Dark,Drama,8.6,Robert,Downey,Fincher,8,200,772
+201,Dark,Comedy,7.8,Brad,Hemsworth,Jackson,6,201,831
+202,Breaking Bad,Action,8.8,Jennifer,Hemsworth,Cameron,6,202,292
+203,Friends,Drama,9.5,Natalie,Lawrence,Scorsese,1,203,604
+204,Stranger Things,Comedy,8.2,Angelina,Downey,Cameron,10,204,59
+205,The Mandalorian,Action,7.8,Scarlett,Pitt,Fincher,6,205,237
+206,Loki,Fantasy,8.5,Chris,Pitt,Cameron,1,206,634
+207,WandaVision,Fantasy,7.4,Natalie,Pitt,Nolan,10,207,884
+208,Game of Thrones,Sci-Fi,8.3,Natalie,Jolie,Cuarón,7,208,84
+209,Stranger Things,Drama,9.1,Emma,Jolie,Jackson,9,209,65
+210,Dark,Drama,8.9,Scarlett,Watson,Coppola,8,210,500
+211,Stranger Things,Drama,8.5,Brad,Hemsworth,Spielberg,2,211,69
+212,The Crown,Drama,8.8,Leonardo,Hemsworth,Jackson,8,212,917
+213,Dark,Drama,8.0,Tom,Hemsworth,Nolan,8,213,446
+214,WandaVision,Action,7.5,Scarlett,Downey,Scorsese,5,214,72
+215,Dark,Action,8.8,Tom,Portman,Jackson,2,215,763
+216,Friends,Drama,8.2,Natalie,DiCaprio,Jackson,6,216,891
+217,Friends,Sci-Fi,8.0,Leonardo,Jolie,Cameron,8,217,27
+218,Loki,Fantasy,7.8,Robert,Hanks,Jackson,3,218,551
+219,Friends,Action,8.3,Tom,Hemsworth,Jackson,3,219,269
+220,Friends,Comedy,8.6,Tom,Portman,Spielberg,1,220,895
+221,Breaking Bad,Drama,9.3,Jennifer,DiCaprio,Fincher,6,221,349
+222,The Office,Comedy,8.2,Natalie,Lawrence,Fincher,10,222,938
+223,Breaking Bad,Comedy,7.1,Chris,Johansson,Cuarón,5,223,499
+224,Dark,Drama,7.2,Robert,DiCaprio,Cuarón,10,224,623
+225,Stranger Things,Comedy,9.4,Robert,Hemsworth,Cuarón,7,225,242
+226,The Office,Comedy,8.7,Emma,Watson,Scorsese,5,226,797
+227,The Crown,Comedy,8.9,Angelina,Johansson,Scorsese,3,227,506
+228,Loki,Comedy,8.2,Natalie,Watson,Cameron,10,228,94
+229,The Crown,Action,7.6,Brad,Hemsworth,Jackson,1,229,641
+230,Dark,Fantasy,9.1,Jennifer,Hanks,Spielberg,10,230,842
+231,Loki,Action,9.5,Brad,Lawrence,Jackson,5,231,582
+232,Stranger Things,Drama,7.1,Brad,DiCaprio,Nolan,3,232,254
+233,Stranger Things,Comedy,9.1,Tom,Pitt,Nolan,7,233,947
+234,Game of Thrones,Drama,7.6,Robert,Downey,Scott,8,234,306
+235,The Office,Fantasy,7.5,Leonardo,Hemsworth,Jackson,9,235,585
+236,The Crown,Action,8.4,Brad,Pitt,Cuarón,3,236,970
+237,Friends,Fantasy,8.3,Brad,Hemsworth,Scott,3,237,29
+238,The Mandalorian,Sci-Fi,8.0,Angelina,Portman,Scott,10,238,485
+239,Friends,Fantasy,8.0,Brad,Hanks,Nolan,6,239,494
+240,The Office,Action,8.4,Scarlett,Watson,Spielberg,6,240,966
+241,Dark,Drama,7.2,Jennifer,DiCaprio,Scorsese,3,241,547
+242,The Office,Comedy,8.1,Emma,Hemsworth,Jackson,1,242,593
+243,Dark,Comedy,8.3,Emma,Downey,Scorsese,3,243,787
+244,Game of Thrones,Comedy,7.1,Leonardo,Downey,Fincher,4,244,309
+245,The Crown,Action,8.8,Tom,Pitt,Tarantino,7,245,732
+246,The Mandalorian,Action,7.2,Scarlett,Johansson,Cameron,9,246,490
+247,Dark,Sci-Fi,7.1,Robert,Johansson,Coppola,7,247,399
+248,Friends,Fantasy,7.3,Robert,Johansson,Jackson,1,248,257
+249,WandaVision,Action,8.7,Angelina,Portman,Spielberg,2,249,623
+250,WandaVision,Sci-Fi,7.3,Emma,Hemsworth,Fincher,5,250,64
+251,The Office,Fantasy,8.7,Jennifer,Johansson,Jackson,8,251,838
+252,The Mandalorian,Fantasy,8.4,Tom,Watson,Spielberg,4,252,837
+253,Game of Thrones,Comedy,7.9,Scarlett,Hemsworth,Scott,1,253,565
+254,Game of Thrones,Sci-Fi,9.3,Tom,Lawrence,Fincher,10,254,453
+255,Stranger Things,Action,7.3,Tom,Jolie,Spielberg,1,255,532
+256,Dark,Sci-Fi,7.6,Natalie,Downey,Scott,9,256,271
+257,Loki,Drama,9.2,Robert,Jolie,Spielberg,5,257,422
+258,Dark,Sci-Fi,7.2,Brad,Pitt,Scott,3,258,3
+259,WandaVision,Action,7.2,Brad,DiCaprio,Coppola,2,259,535
+260,Breaking Bad,Fantasy,8.8,Brad,Pitt,Coppola,10,260,757
+261,The Office,Sci-Fi,9.4,Jennifer,Johansson,Scott,10,261,230
+262,Breaking Bad,Fantasy,8.4,Tom,Hemsworth,Nolan,7,262,789
+263,Dark,Comedy,7.5,Emma,Johansson,Coppola,10,263,601
+264,Dark,Sci-Fi,9.1,Jennifer,Hemsworth,Scott,1,264,922
+265,Friends,Drama,8.6,Angelina,DiCaprio,Nolan,1,265,414
+266,Breaking Bad,Comedy,8.0,Scarlett,Pitt,Nolan,7,266,508
+267,Game of Thrones,Fantasy,9.1,Brad,Downey,Cuarón,4,267,755
+268,WandaVision,Comedy,8.6,Natalie,Watson,Tarantino,10,268,883
+269,Dark,Fantasy,9.4,Robert,Jolie,Jackson,7,269,926
+270,Friends,Action,7.9,Chris,Portman,Fincher,3,270,773
+271,The Office,Drama,9.0,Scarlett,Jolie,Coppola,2,271,851
+272,Game of Thrones,Comedy,7.0,Emma,Downey,Tarantino,3,272,245
+273,Dark,Action,8.3,Scarlett,Johansson,Tarantino,7,273,856
+274,WandaVision,Fantasy,7.6,Leonardo,Lawrence,Coppola,3,274,598
+275,The Office,Sci-Fi,7.7,Robert,Pitt,Coppola,9,275,904
+276,Dark,Sci-Fi,9.0,Leonardo,Hemsworth,Jackson,3,276,556
+277,The Office,Sci-Fi,7.1,Leonardo,DiCaprio,Nolan,1,277,272
+278,Stranger Things,Sci-Fi,9.0,Leonardo,Pitt,Scorsese,7,278,29
+279,The Crown,Action,8.3,Leonardo,Pitt,Scorsese,3,279,442
+280,The Mandalorian,Action,7.8,Scarlett,Pitt,Fincher,3,280,528
+281,Friends,Action,8.5,Jennifer,DiCaprio,Spielberg,5,281,835
+282,Loki,Sci-Fi,7.3,Emma,Johansson,Cuarón,3,282,174
+283,WandaVision,Comedy,7.4,Scarlett,DiCaprio,Tarantino,10,283,300
+284,The Office,Action,7.8,Emma,Hanks,Nolan,6,284,836
+285,The Office,Drama,7.7,Leonardo,Johansson,Scorsese,8,285,855
+286,Dark,Drama,8.2,Scarlett,DiCaprio,Spielberg,9,286,743
+287,Stranger Things,Comedy,8.4,Robert,Lawrence,Cuarón,3,287,887
+288,Loki,Comedy,9.0,Scarlett,Portman,Tarantino,3,288,617
+289,Loki,Action,9.1,Leonardo,Watson,Tarantino,2,289,744
+290,WandaVision,Drama,8.8,Leonardo,Portman,Spielberg,3,290,867
+291,Dark,Comedy,9.1,Robert,Watson,Tarantino,1,291,326
+292,Loki,Sci-Fi,7.9,Natalie,Lawrence,Scorsese,8,292,660
+293,The Crown,Comedy,9.4,Tom,Hemsworth,Scorsese,2,293,419
+294,The Crown,Comedy,9.2,Scarlett,Portman,Jackson,3,294,789
+295,Breaking Bad,Action,9.3,Tom,DiCaprio,Cameron,3,295,409
+296,Loki,Comedy,8.5,Chris,Hanks,Scorsese,6,296,305
+297,The Crown,Drama,8.1,Angelina,Lawrence,Nolan,5,297,943
+298,WandaVision,Sci-Fi,8.5,Jennifer,Watson,Nolan,8,298,483
+299,The Office,Action,8.1,Emma,Hanks,Cameron,8,299,383
+300,The Mandalorian,Sci-Fi,7.4,Chris,Watson,Jackson,1,300,278
+301,Loki,Action,7.6,Tom,Portman,Tarantino,4,301,652
+302,Loki,Fantasy,8.4,Jennifer,Pitt,Scott,7,302,34
+303,Game of Thrones,Comedy,9.1,Emma,Downey,Tarantino,1,303,623
+304,Breaking Bad,Fantasy,7.7,Emma,DiCaprio,Tarantino,6,304,836
+305,Breaking Bad,Comedy,9.0,Angelina,Jolie,Cuarón,2,305,409
+306,Game of Thrones,Sci-Fi,8.8,Robert,Watson,Fincher,10,306,779
+307,Game of Thrones,Comedy,8.4,Jennifer,Watson,Nolan,10,307,813
+308,Game of Thrones,Drama,9.4,Leonardo,Hemsworth,Fincher,8,308,829
+309,Game of Thrones,Action,7.1,Tom,Downey,Fincher,8,309,379
+310,The Office,Action,7.5,Natalie,Jolie,Scorsese,7,310,278
+311,The Crown,Comedy,7.0,Scarlett,Johansson,Scott,3,311,774
+312,Breaking Bad,Sci-Fi,8.8,Natalie,Hanks,Scott,8,312,645
+313,Loki,Fantasy,7.8,Leonardo,Lawrence,Nolan,5,313,348
+314,Breaking Bad,Fantasy,7.6,Robert,DiCaprio,Cameron,1,314,308
+315,The Mandalorian,Drama,8.7,Emma,DiCaprio,Scorsese,2,315,649
+316,Game of Thrones,Action,9.3,Natalie,DiCaprio,Fincher,9,316,249
+317,Stranger Things,Drama,8.5,Natalie,Downey,Tarantino,5,317,205
+318,The Office,Drama,8.8,Scarlett,Johansson,Scott,2,318,298
+319,Stranger Things,Drama,8.3,Robert,Lawrence,Spielberg,2,319,952
+320,The Office,Action,9.5,Emma,Hanks,Jackson,10,320,54
+321,Breaking Bad,Sci-Fi,8.3,Tom,Portman,Spielberg,7,321,389
+322,The Office,Action,8.8,Tom,Hanks,Scott,2,322,400
+323,Dark,Fantasy,7.1,Chris,Jolie,Cuarón,4,323,163
+324,Loki,Drama,8.6,Jennifer,Lawrence,Spielberg,7,324,11
+325,Friends,Drama,9.3,Emma,Watson,Fincher,3,325,132
+326,The Office,Action,8.1,Scarlett,Hemsworth,Cameron,5,326,41
+327,Game of Thrones,Fantasy,8.3,Chris,DiCaprio,Cuarón,6,327,504
+328,The Office,Sci-Fi,8.0,Natalie,Watson,Tarantino,1,328,492
+329,Stranger Things,Comedy,8.7,Leonardo,Hanks,Scorsese,10,329,643
+330,Loki,Sci-Fi,9.3,Leonardo,DiCaprio,Coppola,1,330,893
+331,Game of Thrones,Action,7.0,Jennifer,Jolie,Spielberg,10,331,908
+332,The Office,Comedy,8.8,Robert,Hemsworth,Nolan,4,332,389
+333,Breaking Bad,Action,7.1,Chris,Johansson,Cameron,4,333,551
+334,Loki,Fantasy,7.9,Tom,Portman,Jackson,5,334,580
+335,Friends,Comedy,7.9,Jennifer,Downey,Fincher,4,335,754
+336,The Mandalorian,Action,7.7,Robert,DiCaprio,Spielberg,4,336,190
+337,Breaking Bad,Action,8.2,Tom,Watson,Cameron,6,337,508
+338,Stranger Things,Fantasy,9.3,Chris,Lawrence,Scorsese,1,338,897
+339,The Office,Drama,7.5,Jennifer,DiCaprio,Spielberg,1,339,12
+340,Dark,Sci-Fi,9.1,Brad,Watson,Coppola,1,340,956
+341,Dark,Sci-Fi,7.4,Tom,Hemsworth,Spielberg,4,341,388
+342,Dark,Drama,8.1,Emma,Downey,Jackson,10,342,459
+343,The Mandalorian,Comedy,9.4,Brad,Portman,Scorsese,4,343,349
+344,Friends,Action,9.3,Scarlett,Portman,Spielberg,5,344,658
+345,The Office,Comedy,7.7,Robert,Downey,Scott,2,345,527
+346,Breaking Bad,Sci-Fi,8.1,Scarlett,Hanks,Scott,9,346,888
+347,The Crown,Sci-Fi,9.1,Chris,Hemsworth,Cameron,10,347,836
+348,Stranger Things,Sci-Fi,9.1,Angelina,Johansson,Spielberg,1,348,184
+349,The Office,Action,7.4,Emma,Lawrence,Tarantino,7,349,967
+350,Breaking Bad,Fantasy,9.3,Robert,Jolie,Jackson,1,350,542
+351,WandaVision,Fantasy,8.8,Chris,Watson,Cuarón,8,351,260
+352,The Office,Fantasy,9.1,Angelina,Lawrence,Spielberg,2,352,953
+353,Dark,Action,8.4,Emma,Johansson,Scott,1,353,100
+354,The Crown,Comedy,9.3,Emma,Hemsworth,Cameron,9,354,138
+355,The Office,Sci-Fi,9.0,Angelina,DiCaprio,Spielberg,4,355,330
+356,Loki,Comedy,7.3,Chris,Jolie,Scorsese,8,356,838
+357,Game of Thrones,Action,8.6,Emma,Johansson,Fincher,4,357,617
+358,Friends,Comedy,9.1,Chris,Portman,Jackson,10,358,244
+359,Loki,Action,8.2,Chris,Downey,Spielberg,7,359,341
+360,Breaking Bad,Sci-Fi,8.5,Tom,Hanks,Spielberg,5,360,159
+361,Game of Thrones,Fantasy,9.0,Jennifer,Downey,Scott,2,361,779
+362,Loki,Comedy,8.3,Jennifer,DiCaprio,Scott,9,362,782
+363,Loki,Comedy,7.4,Scarlett,Pitt,Cuarón,6,363,348
+364,The Crown,Comedy,8.2,Natalie,Johansson,Coppola,6,364,240
+365,The Mandalorian,Sci-Fi,7.4,Brad,Watson,Coppola,10,365,413
+366,Stranger Things,Action,7.4,Chris,Lawrence,Fincher,4,366,613
+367,WandaVision,Action,7.8,Leonardo,Johansson,Nolan,9,367,428
+368,Game of Thrones,Fantasy,9.2,Chris,Johansson,Scorsese,7,368,575
+369,Breaking Bad,Sci-Fi,7.8,Leonardo,Hemsworth,Jackson,7,369,383
+370,WandaVision,Fantasy,9.1,Natalie,Watson,Scott,6,370,37
+371,Dark,Drama,7.7,Chris,Portman,Coppola,8,371,787
+372,Game of Thrones,Action,8.8,Emma,Portman,Cameron,7,372,610
+373,Game of Thrones,Sci-Fi,8.1,Scarlett,Downey,Spielberg,10,373,502
+374,Game of Thrones,Drama,7.2,Emma,Pitt,Fincher,4,374,898
+375,The Mandalorian,Drama,7.8,Natalie,Downey,Cuarón,4,375,569
+376,The Mandalorian,Comedy,7.7,Leonardo,Portman,Scorsese,10,376,275
+377,Breaking Bad,Fantasy,8.3,Brad,Watson,Coppola,5,377,50
+378,Breaking Bad,Sci-Fi,8.7,Tom,Downey,Coppola,4,378,336
+379,Game of Thrones,Action,9.3,Scarlett,Johansson,Fincher,7,379,466
+380,Loki,Sci-Fi,7.4,Jennifer,Jolie,Fincher,7,380,514
+381,The Crown,Action,9.4,Natalie,Hanks,Nolan,5,381,394
+382,Game of Thrones,Fantasy,8.2,Scarlett,Johansson,Jackson,9,382,735
+383,Loki,Sci-Fi,8.4,Tom,Watson,Spielberg,9,383,916
+384,The Office,Action,8.8,Brad,Hemsworth,Spielberg,6,384,666
+385,Stranger Things,Comedy,8.1,Angelina,Hanks,Cameron,9,385,450
+386,The Mandalorian,Sci-Fi,7.2,Brad,DiCaprio,Nolan,2,386,646
+387,The Crown,Comedy,8.3,Leonardo,Hemsworth,Nolan,6,387,258
+388,Dark,Fantasy,7.1,Chris,Portman,Jackson,7,388,393
+389,The Office,Drama,9.3,Tom,Hanks,Nolan,5,389,93
+390,Stranger Things,Action,8.6,Natalie,DiCaprio,Scott,8,390,863
+391,The Crown,Sci-Fi,9.1,Brad,Jolie,Coppola,8,391,162
+392,The Crown,Action,9.3,Leonardo,Johansson,Fincher,3,392,817
+393,The Mandalorian,Sci-Fi,9.4,Jennifer,Pitt,Cuarón,7,393,890
+394,WandaVision,Comedy,8.5,Leonardo,DiCaprio,Scorsese,6,394,396
+395,WandaVision,Action,7.6,Brad,Downey,Scorsese,4,395,337
+396,Dark,Sci-Fi,8.5,Angelina,Lawrence,Nolan,1,396,768
+397,Loki,Fantasy,8.7,Brad,Hanks,Tarantino,2,397,980
+398,Game of Thrones,Drama,8.9,Natalie,Lawrence,Nolan,9,398,62
+399,Game of Thrones,Action,8.8,Tom,Portman,Tarantino,4,399,578
+400,Dark,Action,8.5,Chris,Portman,Coppola,2,400,54
+401,Friends,Drama,8.0,Brad,Portman,Fincher,8,401,300
+402,Loki,Action,8.2,Robert,Hemsworth,Cameron,4,402,254
+403,Game of Thrones,Comedy,9.5,Natalie,Watson,Scott,3,403,906
+404,Dark,Action,8.4,Leonardo,Hanks,Cameron,2,404,422
+405,The Crown,Fantasy,7.2,Angelina,Watson,Tarantino,8,405,476
+406,Breaking Bad,Drama,7.4,Leonardo,Hemsworth,Nolan,10,406,587
+407,Friends,Action,8.0,Natalie,Downey,Tarantino,6,407,282
+408,The Crown,Comedy,9.0,Robert,DiCaprio,Spielberg,9,408,417
+409,The Mandalorian,Drama,9.2,Tom,Downey,Tarantino,1,409,598
+410,Friends,Fantasy,8.3,Chris,Jolie,Spielberg,3,410,244
+411,Friends,Drama,9.5,Jennifer,Hemsworth,Cuarón,7,411,584
+412,Dark,Fantasy,7.1,Jennifer,Johansson,Scorsese,2,412,836
+413,Stranger Things,Sci-Fi,7.7,Jennifer,Pitt,Nolan,6,413,113
+414,Game of Thrones,Fantasy,8.8,Tom,Hanks,Jackson,8,414,723
+415,Friends,Action,9.4,Angelina,Portman,Scorsese,7,415,612
+416,The Office,Fantasy,7.6,Angelina,Jolie,Nolan,4,416,216
+417,Friends,Drama,7.8,Tom,Pitt,Tarantino,10,417,833
+418,The Office,Sci-Fi,7.2,Angelina,Lawrence,Coppola,8,418,330
+419,Friends,Fantasy,9.3,Jennifer,Johansson,Jackson,4,419,180
+420,The Office,Comedy,8.1,Leonardo,Portman,Scorsese,4,420,73
+421,WandaVision,Action,7.6,Leonardo,Johansson,Jackson,9,421,713
+422,Friends,Sci-Fi,8.6,Scarlett,Pitt,Fincher,1,422,96
+423,The Office,Action,8.0,Leonardo,Hemsworth,Scorsese,4,423,998
+424,WandaVision,Comedy,8.7,Natalie,DiCaprio,Coppola,6,424,767
+425,Breaking Bad,Fantasy,7.1,Emma,Hanks,Spielberg,8,425,589
+426,The Office,Comedy,9.0,Emma,DiCaprio,Tarantino,6,426,892
+427,Dark,Action,7.3,Angelina,Portman,Nolan,4,427,88
+428,WandaVision,Sci-Fi,7.7,Natalie,DiCaprio,Fincher,10,428,159
+429,Game of Thrones,Drama,9.5,Brad,Jolie,Tarantino,6,429,296
+430,The Mandalorian,Sci-Fi,8.3,Chris,Portman,Cuarón,7,430,863
+431,The Office,Action,8.2,Natalie,Hanks,Nolan,5,431,323
+432,WandaVision,Action,8.1,Chris,Hanks,Cuarón,4,432,894
+433,Game of Thrones,Fantasy,7.2,Brad,Lawrence,Cuarón,4,433,85
+434,The Mandalorian,Action,8.4,Leonardo,Lawrence,Scott,5,434,608
+435,The Mandalorian,Fantasy,8.1,Brad,Hemsworth,Scott,7,435,979
+436,Dark,Sci-Fi,7.1,Scarlett,Hemsworth,Spielberg,3,436,603
+437,Friends,Fantasy,8.8,Tom,Lawrence,Tarantino,7,437,157
+438,Game of Thrones,Comedy,9.0,Angelina,Hanks,Cameron,4,438,729
+439,The Office,Drama,8.5,Angelina,Hemsworth,Scorsese,6,439,836
+440,Loki,Fantasy,7.1,Robert,Jolie,Tarantino,1,440,490
+441,Friends,Sci-Fi,8.3,Chris,Portman,Tarantino,1,441,569
+442,The Office,Action,7.6,Robert,Hemsworth,Jackson,2,442,517
+443,The Office,Drama,8.2,Leonardo,Downey,Jackson,7,443,839
+444,Breaking Bad,Sci-Fi,8.7,Natalie,DiCaprio,Cuarón,7,444,845
+445,Stranger Things,Drama,8.3,Angelina,Watson,Jackson,10,445,402
+446,Loki,Drama,9.0,Natalie,Hanks,Tarantino,1,446,432
+447,The Office,Action,8.4,Emma,DiCaprio,Scorsese,3,447,143
+448,Loki,Sci-Fi,8.4,Robert,Watson,Scorsese,8,448,886
+449,The Mandalorian,Comedy,7.4,Tom,Johansson,Spielberg,8,449,440
+450,Dark,Sci-Fi,8.9,Jennifer,Downey,Spielberg,6,450,130
+451,Loki,Comedy,7.2,Natalie,Watson,Scorsese,8,451,129
+452,Stranger Things,Comedy,7.7,Scarlett,Hanks,Spielberg,4,452,137
+453,Breaking Bad,Action,9.3,Tom,Watson,Scott,1,453,715
+454,Friends,Comedy,9.0,Jennifer,Pitt,Scorsese,4,454,722
+455,The Crown,Sci-Fi,8.4,Chris,Watson,Tarantino,2,455,406
+456,Breaking Bad,Sci-Fi,7.6,Chris,Lawrence,Scorsese,7,456,988
+457,The Office,Comedy,9.5,Natalie,Hanks,Fincher,2,457,153
+458,Dark,Action,8.8,Leonardo,Watson,Fincher,1,458,221
+459,WandaVision,Drama,7.0,Leonardo,DiCaprio,Jackson,4,459,809
+460,Game of Thrones,Action,8.0,Tom,Johansson,Fincher,3,460,995
+461,The Office,Action,9.2,Chris,Downey,Tarantino,1,461,857
+462,WandaVision,Action,7.1,Emma,Hanks,Jackson,3,462,797
+463,Dark,Fantasy,9.1,Chris,Pitt,Coppola,6,463,979
+464,Loki,Sci-Fi,9.2,Angelina,Johansson,Jackson,2,464,264
+465,The Crown,Comedy,7.4,Angelina,Hanks,Scott,7,465,253
+466,Stranger Things,Drama,7.3,Jennifer,Johansson,Scott,7,466,940
+467,Loki,Action,9.2,Tom,Hemsworth,Cameron,4,467,253
+468,Dark,Action,7.2,Angelina,DiCaprio,Fincher,2,468,512
+469,Game of Thrones,Comedy,9.3,Leonardo,DiCaprio,Scott,6,469,262
+470,The Crown,Action,7.5,Emma,Hanks,Jackson,5,470,872
+471,The Office,Comedy,7.4,Angelina,Downey,Cameron,8,471,772
+472,Game of Thrones,Action,9.0,Chris,Pitt,Tarantino,8,472,22
+473,WandaVision,Drama,9.4,Robert,Hanks,Cuarón,2,473,421
+474,The Mandalorian,Sci-Fi,9.4,Tom,Lawrence,Tarantino,9,474,998
+475,WandaVision,Fantasy,7.0,Scarlett,Pitt,Scott,6,475,702
+476,Game of Thrones,Drama,8.4,Emma,Portman,Jackson,4,476,822
+477,The Crown,Sci-Fi,8.5,Emma,Jolie,Cameron,2,477,422
+478,WandaVision,Fantasy,9.1,Brad,Hanks,Nolan,9,478,585
+479,Dark,Comedy,8.4,Chris,Hemsworth,Coppola,10,479,113
+480,Friends,Comedy,7.4,Tom,Hemsworth,Spielberg,10,480,147
+481,Stranger Things,Drama,7.0,Natalie,Johansson,Jackson,6,481,693
+482,The Crown,Sci-Fi,8.0,Tom,Pitt,Scott,1,482,629
+483,Game of Thrones,Comedy,7.2,Angelina,Portman,Cuarón,10,483,194
+484,WandaVision,Sci-Fi,9.4,Jennifer,Lawrence,Fincher,3,484,985
+485,Friends,Comedy,7.4,Tom,Hanks,Scorsese,6,485,196
+486,The Crown,Comedy,7.1,Brad,Downey,Jackson,8,486,253
+487,Stranger Things,Sci-Fi,7.2,Jennifer,Hanks,Spielberg,6,487,102
+488,Breaking Bad,Sci-Fi,7.2,Brad,Hemsworth,Nolan,10,488,444
+489,The Office,Action,8.2,Robert,Johansson,Scorsese,6,489,565
+490,Dark,Comedy,9.5,Angelina,Jolie,Cameron,9,490,427
+491,Dark,Drama,7.3,Natalie,Lawrence,Scott,6,491,285
+492,WandaVision,Sci-Fi,7.8,Natalie,Pitt,Spielberg,5,492,828
+493,Stranger Things,Fantasy,7.5,Chris,Downey,Cuarón,1,493,754
+494,The Crown,Fantasy,7.2,Leonardo,Lawrence,Cuarón,5,494,617
+495,Friends,Comedy,9.3,Jennifer,Pitt,Fincher,5,495,85
+496,Breaking Bad,Action,9.2,Leonardo,Lawrence,Tarantino,4,496,9
+497,The Crown,Action,7.8,Leonardo,Jolie,Coppola,4,497,614
+498,Dark,Comedy,9.3,Chris,Pitt,Scott,7,498,151
+499,Friends,Comedy,9.0,Natalie,Hemsworth,Spielberg,2,499,226
+500,Dark,Action,7.8,Robert,Portman,Spielberg,6,500,712
+501,Breaking Bad,Sci-Fi,9.4,Leonardo,Jolie,Spielberg,10,501,669
+502,Friends,Action,7.0,Chris,Watson,Scorsese,6,502,54
+503,Dark,Comedy,9.1,Scarlett,Watson,Jackson,8,503,987
+504,The Crown,Sci-Fi,8.7,Jennifer,Lawrence,Tarantino,1,504,798
+505,Dark,Comedy,8.8,Robert,Hemsworth,Nolan,2,505,945
+506,The Office,Drama,8.0,Chris,Pitt,Tarantino,3,506,847
+507,The Crown,Comedy,9.0,Leonardo,Pitt,Tarantino,1,507,693
+508,Stranger Things,Sci-Fi,7.7,Emma,Johansson,Jackson,2,508,768
+509,The Mandalorian,Action,7.8,Tom,Hemsworth,Tarantino,2,509,659
+510,Dark,Sci-Fi,7.5,Jennifer,DiCaprio,Scott,4,510,765
+511,Breaking Bad,Sci-Fi,9.2,Natalie,DiCaprio,Scott,8,511,577
+512,The Office,Fantasy,8.9,Scarlett,Lawrence,Jackson,1,512,195
+513,Friends,Fantasy,9.1,Leonardo,DiCaprio,Spielberg,3,513,134
+514,WandaVision,Action,7.2,Robert,DiCaprio,Cuarón,3,514,348
+515,Game of Thrones,Fantasy,7.5,Tom,Portman,Spielberg,4,515,459
+516,Friends,Sci-Fi,9.4,Robert,Lawrence,Spielberg,3,516,809
+517,Stranger Things,Action,7.1,Leonardo,Hemsworth,Tarantino,7,517,374
+518,Stranger Things,Sci-Fi,9.3,Natalie,Portman,Tarantino,3,518,519
+519,Loki,Drama,7.5,Leonardo,Downey,Scorsese,6,519,150
+520,Loki,Fantasy,8.5,Scarlett,Watson,Tarantino,1,520,946
+521,The Crown,Comedy,8.5,Leonardo,Johansson,Cameron,10,521,698
+522,The Office,Action,9.3,Robert,Pitt,Cameron,9,522,910
+523,Game of Thrones,Sci-Fi,7.2,Jennifer,Portman,Coppola,1,523,50
+524,Game of Thrones,Drama,7.1,Jennifer,Lawrence,Scorsese,2,524,418
+525,The Mandalorian,Drama,9.0,Robert,Watson,Coppola,4,525,729
+526,Friends,Action,8.4,Natalie,Johansson,Scorsese,7,526,507
+527,Loki,Sci-Fi,9.4,Jennifer,Johansson,Spielberg,6,527,335
+528,Game of Thrones,Sci-Fi,7.3,Tom,Johansson,Jackson,9,528,971
+529,Stranger Things,Action,8.9,Robert,Watson,Cameron,10,529,316
+530,Game of Thrones,Comedy,7.9,Scarlett,Hanks,Cuarón,10,530,855
+531,Game of Thrones,Drama,8.3,Natalie,Hanks,Scorsese,5,531,56
+532,Loki,Comedy,8.7,Jennifer,Jolie,Scott,8,532,320
+533,WandaVision,Comedy,9.0,Leonardo,Hanks,Fincher,2,533,263
+534,The Office,Sci-Fi,9.5,Tom,Pitt,Jackson,10,534,403
+535,The Mandalorian,Drama,8.1,Tom,Jolie,Scott,7,535,289
+536,The Mandalorian,Action,7.5,Brad,Downey,Spielberg,4,536,415
+537,WandaVision,Drama,7.2,Natalie,Hemsworth,Tarantino,7,537,103
+538,The Crown,Drama,8.8,Jennifer,DiCaprio,Nolan,3,538,257
+539,Dark,Action,8.9,Brad,Johansson,Coppola,4,539,47
+540,Stranger Things,Fantasy,8.4,Emma,Pitt,Scott,4,540,957
+541,The Crown,Sci-Fi,8.1,Chris,Jolie,Scorsese,3,541,111
+542,The Crown,Comedy,8.9,Brad,Johansson,Cameron,2,542,665
+543,The Crown,Fantasy,8.7,Chris,Pitt,Cuarón,2,543,605
+544,Loki,Action,8.6,Leonardo,Hanks,Scorsese,7,544,626
+545,The Mandalorian,Drama,7.1,Chris,Watson,Nolan,1,545,399
+546,The Office,Action,7.0,Emma,Watson,Cuarón,1,546,615
+547,Loki,Drama,8.0,Robert,DiCaprio,Cameron,1,547,742
+548,WandaVision,Action,7.5,Emma,Portman,Tarantino,7,548,522
+549,Loki,Comedy,7.3,Robert,DiCaprio,Scott,8,549,997
+550,The Office,Sci-Fi,7.6,Leonardo,Watson,Tarantino,10,550,982
+551,The Mandalorian,Drama,7.0,Jennifer,Hanks,Scott,6,551,694
+552,The Mandalorian,Action,8.8,Emma,Hemsworth,Nolan,1,552,829
+553,Stranger Things,Comedy,8.8,Brad,Lawrence,Scott,9,553,737
+554,Game of Thrones,Action,7.3,Jennifer,Hanks,Spielberg,5,554,968
+555,The Crown,Comedy,7.7,Natalie,Pitt,Nolan,9,555,382
+556,The Office,Comedy,8.3,Tom,DiCaprio,Tarantino,4,556,430
+557,Loki,Drama,9.0,Robert,Downey,Scott,6,557,778
+558,Friends,Action,8.6,Leonardo,Lawrence,Fincher,3,558,250
+559,Stranger Things,Drama,8.2,Natalie,Lawrence,Spielberg,5,559,415
+560,Breaking Bad,Action,9.3,Tom,DiCaprio,Fincher,3,560,997
+561,The Mandalorian,Drama,7.9,Tom,Jolie,Cuarón,6,561,45
+562,The Office,Sci-Fi,7.4,Chris,DiCaprio,Scorsese,9,562,312
+563,The Mandalorian,Action,8.1,Robert,Watson,Coppola,4,563,934
+564,Stranger Things,Sci-Fi,8.2,Scarlett,Hemsworth,Spielberg,4,564,898
+565,Dark,Sci-Fi,8.6,Scarlett,DiCaprio,Cuarón,5,565,292
+566,Loki,Sci-Fi,7.3,Tom,Pitt,Cuarón,9,566,807
+567,The Office,Drama,9.0,Robert,Watson,Nolan,1,567,836
+568,The Office,Action,8.9,Jennifer,DiCaprio,Spielberg,3,568,46
+569,WandaVision,Comedy,9.2,Chris,Hemsworth,Nolan,6,569,219
+570,WandaVision,Sci-Fi,8.4,Leonardo,Jolie,Nolan,3,570,102
+571,Loki,Comedy,7.2,Tom,DiCaprio,Scorsese,1,571,506
+572,The Crown,Action,8.5,Brad,Watson,Scorsese,6,572,857
+573,The Office,Sci-Fi,9.5,Tom,Jolie,Scott,2,573,420
+574,Friends,Sci-Fi,9.0,Tom,Hanks,Coppola,1,574,386
+575,Loki,Sci-Fi,7.6,Chris,Lawrence,Fincher,4,575,466
+576,WandaVision,Drama,7.4,Angelina,Downey,Jackson,10,576,832
+577,Loki,Comedy,8.7,Leonardo,Watson,Jackson,7,577,614
+578,Stranger Things,Comedy,8.2,Chris,DiCaprio,Scott,9,578,957
+579,The Mandalorian,Sci-Fi,8.4,Jennifer,Pitt,Nolan,5,579,719
+580,Friends,Comedy,9.5,Jennifer,Johansson,Nolan,5,580,517
+581,Breaking Bad,Fantasy,8.2,Brad,Portman,Cameron,7,581,622
+582,Friends,Comedy,9.2,Tom,Downey,Fincher,3,582,824
+583,Stranger Things,Drama,9.3,Emma,Johansson,Nolan,10,583,257
+584,WandaVision,Comedy,7.7,Leonardo,Hemsworth,Cameron,1,584,231
+585,The Crown,Sci-Fi,7.5,Leonardo,Watson,Nolan,8,585,590
+586,Breaking Bad,Action,8.7,Jennifer,Watson,Tarantino,3,586,780
+587,The Office,Fantasy,8.7,Emma,Downey,Tarantino,6,587,943
+588,Stranger Things,Comedy,8.4,Scarlett,Lawrence,Fincher,8,588,132
+589,Loki,Fantasy,9.2,Chris,Lawrence,Scott,8,589,40
+590,Loki,Sci-Fi,7.2,Tom,Portman,Tarantino,8,590,224
+591,The Mandalorian,Sci-Fi,9.0,Scarlett,Hanks,Scott,6,591,956
+592,Dark,Fantasy,8.8,Emma,Lawrence,Scorsese,9,592,222
+593,Game of Thrones,Fantasy,7.7,Jennifer,Hanks,Scott,5,593,371
+594,WandaVision,Action,9.3,Chris,DiCaprio,Cuarón,7,594,858
+595,Friends,Sci-Fi,7.6,Jennifer,Hemsworth,Scorsese,4,595,491
+596,Friends,Action,7.9,Angelina,Downey,Fincher,5,596,23
+597,WandaVision,Sci-Fi,7.2,Emma,DiCaprio,Cuarón,5,597,305
+598,WandaVision,Comedy,8.2,Chris,Pitt,Scorsese,10,598,59
+599,Game of Thrones,Fantasy,9.2,Angelina,Johansson,Coppola,3,599,164
+600,Breaking Bad,Comedy,8.0,Brad,Lawrence,Scorsese,9,600,836
+601,The Office,Comedy,8.7,Chris,DiCaprio,Nolan,3,601,62
+602,Friends,Action,7.7,Jennifer,Hemsworth,Fincher,10,602,111
+603,WandaVision,Comedy,7.1,Leonardo,Jolie,Scorsese,4,603,658
+604,Stranger Things,Comedy,9.0,Jennifer,Jolie,Cuarón,8,604,81
+605,The Crown,Drama,9.2,Emma,Portman,Scott,1,605,500
+606,Stranger Things,Sci-Fi,8.3,Brad,Pitt,Spielberg,7,606,400
+607,Friends,Action,7.1,Scarlett,Hemsworth,Scott,5,607,845
+608,The Mandalorian,Fantasy,8.0,Natalie,Portman,Cameron,9,608,151
+609,Loki,Comedy,9.3,Leonardo,Hanks,Fincher,8,609,238
+610,The Crown,Drama,7.6,Chris,Johansson,Nolan,5,610,478
+611,The Crown,Comedy,7.3,Brad,Jolie,Scott,4,611,866
+612,The Crown,Action,8.4,Tom,Jolie,Nolan,7,612,734
+613,The Office,Sci-Fi,7.6,Angelina,Watson,Nolan,4,613,664
+614,Loki,Comedy,7.1,Emma,Pitt,Fincher,2,614,995
+615,Game of Thrones,Drama,7.4,Jennifer,Lawrence,Coppola,4,615,345
+616,The Mandalorian,Action,8.8,Robert,Johansson,Cameron,7,616,272
+617,Stranger Things,Comedy,9.4,Chris,Downey,Tarantino,8,617,918
+618,WandaVision,Action,8.1,Tom,DiCaprio,Cameron,1,618,670
+619,Friends,Action,8.9,Chris,Portman,Spielberg,5,619,691
+620,Stranger Things,Comedy,9.1,Brad,Watson,Coppola,4,620,603
+621,Stranger Things,Comedy,9.3,Brad,Watson,Scott,3,621,243
+622,WandaVision,Drama,8.4,Tom,Hemsworth,Coppola,5,622,890
+623,Loki,Sci-Fi,8.1,Brad,Johansson,Fincher,6,623,214
+624,The Office,Comedy,9.1,Angelina,Jolie,Scorsese,4,624,634
+625,The Crown,Action,9.5,Natalie,Portman,Scorsese,2,625,520
+626,Loki,Sci-Fi,8.6,Chris,DiCaprio,Fincher,2,626,978
+627,Stranger Things,Action,7.5,Robert,Johansson,Fincher,9,627,994
+628,Stranger Things,Fantasy,8.0,Chris,Portman,Jackson,4,628,829
+629,Stranger Things,Fantasy,7.3,Emma,Hanks,Tarantino,4,629,846
+630,Stranger Things,Sci-Fi,7.0,Emma,DiCaprio,Scorsese,8,630,347
+631,Game of Thrones,Fantasy,9.2,Angelina,Hemsworth,Spielberg,8,631,993
+632,The Mandalorian,Action,7.3,Leonardo,DiCaprio,Scorsese,9,632,646
+633,Loki,Drama,7.9,Robert,Lawrence,Cuarón,7,633,342
+634,Breaking Bad,Drama,7.9,Leonardo,Portman,Fincher,6,634,503
+635,Loki,Sci-Fi,9.4,Angelina,Johansson,Coppola,4,635,555
+636,Dark,Drama,8.6,Natalie,Portman,Nolan,10,636,711
+637,The Crown,Comedy,7.8,Brad,Jolie,Scott,6,637,395
+638,Game of Thrones,Drama,7.2,Natalie,Hanks,Spielberg,8,638,528
+639,Loki,Action,8.1,Brad,DiCaprio,Tarantino,5,639,827
+640,Dark,Action,9.5,Emma,Johansson,Spielberg,7,640,258
+641,Breaking Bad,Drama,8.1,Robert,Pitt,Nolan,9,641,862
+642,The Mandalorian,Drama,8.7,Chris,Lawrence,Fincher,9,642,304
+643,Breaking Bad,Comedy,8.5,Angelina,Watson,Fincher,4,643,14
+644,Stranger Things,Drama,8.0,Emma,Pitt,Jackson,10,644,523
+645,WandaVision,Comedy,7.8,Brad,Portman,Scott,10,645,382
+646,Game of Thrones,Comedy,8.0,Angelina,Hemsworth,Tarantino,6,646,561
+647,Stranger Things,Comedy,7.2,Robert,Johansson,Scott,8,647,112
+648,The Mandalorian,Action,9.2,Natalie,Pitt,Coppola,1,648,636
+649,WandaVision,Comedy,8.7,Scarlett,DiCaprio,Cuarón,9,649,626
+650,Friends,Action,9.2,Scarlett,Jolie,Spielberg,3,650,92
+651,The Office,Action,7.8,Angelina,DiCaprio,Jackson,8,651,877
+652,Dark,Action,8.9,Robert,Hanks,Scorsese,6,652,242
+653,Breaking Bad,Fantasy,8.9,Scarlett,DiCaprio,Fincher,10,653,692
+654,Stranger Things,Sci-Fi,7.8,Scarlett,Hanks,Nolan,3,654,179
+655,Game of Thrones,Drama,9.3,Angelina,Pitt,Coppola,2,655,354
+656,WandaVision,Fantasy,8.2,Emma,Hemsworth,Tarantino,9,656,950
+657,The Mandalorian,Action,9.0,Natalie,Watson,Spielberg,2,657,6
+658,Game of Thrones,Fantasy,7.2,Angelina,Hemsworth,Jackson,9,658,685
+659,The Office,Fantasy,7.2,Natalie,DiCaprio,Nolan,9,659,285
+660,Breaking Bad,Comedy,7.1,Scarlett,DiCaprio,Jackson,3,660,945
+661,Stranger Things,Fantasy,7.7,Chris,Hemsworth,Scott,4,661,113
+662,The Office,Action,9.1,Natalie,Johansson,Cameron,1,662,280
+663,The Office,Comedy,8.1,Scarlett,Portman,Tarantino,4,663,636
+664,Game of Thrones,Drama,8.5,Brad,Downey,Scorsese,10,664,806
+665,Loki,Action,9.2,Brad,Jolie,Cameron,7,665,811
+666,The Mandalorian,Sci-Fi,8.9,Chris,Watson,Scott,6,666,368
+667,Stranger Things,Comedy,7.9,Jennifer,Hemsworth,Nolan,6,667,594
+668,Friends,Sci-Fi,8.3,Leonardo,Pitt,Scorsese,2,668,928
+669,WandaVision,Action,7.8,Brad,Pitt,Cameron,8,669,323
+670,Friends,Fantasy,9.5,Scarlett,Lawrence,Coppola,7,670,168
+671,Stranger Things,Action,8.4,Angelina,Watson,Nolan,7,671,508
+672,Friends,Drama,7.0,Emma,Watson,Tarantino,7,672,991
+673,The Crown,Fantasy,9.1,Chris,Downey,Cuarón,5,673,347
+674,Game of Thrones,Action,8.5,Emma,Johansson,Spielberg,9,674,15
+675,Breaking Bad,Comedy,8.0,Chris,Hanks,Tarantino,9,675,137
+676,Loki,Drama,7.9,Natalie,Pitt,Spielberg,6,676,526
+677,The Office,Action,7.1,Emma,DiCaprio,Jackson,6,677,478
+678,Loki,Comedy,7.0,Chris,Pitt,Spielberg,8,678,732
+679,Stranger Things,Fantasy,7.8,Robert,Portman,Cuarón,10,679,823
+680,Friends,Action,7.0,Emma,Hemsworth,Jackson,9,680,625
+681,WandaVision,Comedy,8.3,Robert,Downey,Scorsese,9,681,883
+682,The Crown,Drama,7.1,Chris,Downey,Nolan,9,682,28
+683,The Office,Sci-Fi,8.7,Brad,Hemsworth,Spielberg,5,683,176
+684,The Crown,Drama,8.8,Tom,Downey,Tarantino,5,684,58
+685,The Crown,Drama,9.3,Chris,Portman,Scorsese,2,685,539
+686,The Office,Action,7.1,Scarlett,Hemsworth,Nolan,5,686,727
+687,The Office,Fantasy,7.1,Chris,Hanks,Cameron,9,687,83
+688,WandaVision,Action,8.7,Jennifer,Watson,Nolan,2,688,220
+689,The Mandalorian,Comedy,9.5,Chris,DiCaprio,Scott,7,689,406
+690,WandaVision,Action,8.1,Brad,DiCaprio,Fincher,7,690,262
+691,WandaVision,Fantasy,7.6,Angelina,Hemsworth,Scorsese,1,691,396
+692,Game of Thrones,Action,7.5,Brad,Johansson,Spielberg,10,692,132
+693,Stranger Things,Action,8.5,Chris,Portman,Nolan,8,693,420
+694,The Crown,Fantasy,8.3,Emma,Lawrence,Jackson,3,694,347
+695,Dark,Action,8.9,Emma,Jolie,Fincher,5,695,515
+696,The Mandalorian,Drama,7.6,Jennifer,Pitt,Cameron,3,696,783
+697,Friends,Drama,7.3,Scarlett,Hemsworth,Cameron,6,697,310
+698,The Crown,Drama,9.3,Leonardo,Jolie,Tarantino,8,698,450
+699,The Crown,Fantasy,8.3,Robert,DiCaprio,Scorsese,4,699,125
+700,Friends,Fantasy,8.3,Robert,Downey,Fincher,2,700,962
+701,Friends,Fantasy,7.4,Chris,Hanks,Scorsese,3,701,1
+702,Dark,Drama,8.5,Robert,Portman,Cameron,4,702,690
+703,Loki,Drama,8.2,Scarlett,Hemsworth,Cuarón,6,703,311
+704,WandaVision,Sci-Fi,8.3,Natalie,Portman,Cameron,8,704,235
+705,Loki,Fantasy,8.8,Natalie,Pitt,Scorsese,5,705,98
+706,The Mandalorian,Sci-Fi,7.4,Scarlett,Pitt,Cameron,7,706,254
+707,Dark,Fantasy,9.1,Tom,Hemsworth,Scorsese,10,707,347
+708,Loki,Sci-Fi,8.3,Robert,Downey,Tarantino,10,708,844
+709,WandaVision,Action,9.4,Leonardo,Hanks,Nolan,2,709,663
+710,WandaVision,Drama,8.0,Emma,Hanks,Jackson,2,710,267
+711,The Mandalorian,Action,8.0,Leonardo,Johansson,Scott,5,711,485
+712,Stranger Things,Fantasy,7.6,Natalie,Hanks,Coppola,4,712,663
+713,Loki,Action,8.7,Robert,Johansson,Scorsese,10,713,895
+714,Friends,Comedy,7.0,Natalie,Watson,Nolan,6,714,643
+715,The Crown,Comedy,8.3,Chris,Downey,Scott,3,715,966
+716,Dark,Sci-Fi,7.6,Robert,DiCaprio,Nolan,3,716,89
+717,Breaking Bad,Drama,9.2,Angelina,Hemsworth,Scott,7,717,751
+718,Loki,Comedy,7.4,Robert,Downey,Scott,8,718,528
+719,The Crown,Comedy,7.0,Robert,Portman,Spielberg,7,719,678
+720,WandaVision,Fantasy,7.4,Natalie,Johansson,Coppola,5,720,93
+721,The Office,Action,8.4,Brad,Downey,Cuarón,6,721,222
+722,Breaking Bad,Drama,8.7,Scarlett,DiCaprio,Scott,9,722,682
+723,The Mandalorian,Comedy,7.6,Natalie,Johansson,Tarantino,4,723,360
+724,Dark,Comedy,7.8,Jennifer,Portman,Cameron,7,724,987
+725,WandaVision,Drama,7.5,Emma,Jolie,Jackson,3,725,630
+726,Game of Thrones,Sci-Fi,7.2,Natalie,Johansson,Nolan,8,726,648
+727,Game of Thrones,Action,9.0,Chris,Hanks,Cameron,10,727,812
+728,WandaVision,Action,7.5,Emma,Hemsworth,Fincher,9,728,237
+729,Breaking Bad,Drama,7.0,Brad,Hanks,Coppola,3,729,921
+730,The Office,Fantasy,9.3,Leonardo,Downey,Nolan,10,730,347
+731,The Office,Drama,9.2,Jennifer,Portman,Scott,8,731,1
+732,Loki,Comedy,7.4,Jennifer,Downey,Tarantino,10,732,919
+733,The Crown,Sci-Fi,7.3,Brad,Portman,Tarantino,3,733,968
+734,The Office,Sci-Fi,8.3,Angelina,Johansson,Nolan,9,734,811
+735,Dark,Fantasy,8.1,Tom,Lawrence,Cuarón,2,735,150
+736,Breaking Bad,Sci-Fi,9.2,Natalie,Lawrence,Jackson,3,736,823
+737,Dark,Drama,9.2,Angelina,Jolie,Fincher,10,737,1000
+738,The Office,Drama,9.4,Leonardo,Hemsworth,Fincher,4,738,160
+739,The Crown,Drama,9.0,Chris,Lawrence,Spielberg,10,739,564
+740,Dark,Fantasy,8.1,Jennifer,Lawrence,Nolan,8,740,272
+741,The Office,Action,7.1,Emma,Hemsworth,Scorsese,1,741,394
+742,Stranger Things,Comedy,7.0,Brad,Watson,Scott,4,742,370
+743,Dark,Fantasy,9.2,Natalie,Jolie,Spielberg,8,743,907
+744,Dark,Sci-Fi,8.7,Jennifer,Watson,Scott,7,744,736
+745,Dark,Sci-Fi,8.2,Natalie,Hanks,Jackson,6,745,511
+746,Friends,Comedy,8.6,Jennifer,Downey,Scorsese,3,746,526
+747,Game of Thrones,Comedy,7.4,Tom,Portman,Fincher,5,747,94
+748,The Crown,Comedy,9.3,Robert,Watson,Spielberg,2,748,563
+749,Stranger Things,Action,8.1,Chris,Hanks,Cameron,9,749,390
+750,Friends,Drama,7.5,Chris,Downey,Scott,2,750,927
+751,The Crown,Action,7.2,Brad,Lawrence,Scott,2,751,581
+752,Friends,Drama,7.1,Emma,DiCaprio,Scorsese,5,752,490
+753,Loki,Action,8.1,Jennifer,Portman,Nolan,1,753,70
+754,Friends,Sci-Fi,9.2,Natalie,Downey,Scorsese,5,754,718
+755,The Mandalorian,Sci-Fi,8.6,Angelina,Lawrence,Fincher,9,755,783
+756,Friends,Sci-Fi,8.8,Angelina,Watson,Tarantino,5,756,707
+757,Stranger Things,Fantasy,8.7,Brad,Jolie,Scorsese,2,757,887
+758,Game of Thrones,Comedy,7.7,Emma,Johansson,Scorsese,1,758,400
+759,Breaking Bad,Fantasy,7.5,Robert,Watson,Scorsese,1,759,341
+760,Game of Thrones,Sci-Fi,9.0,Emma,Pitt,Tarantino,3,760,938
+761,Loki,Comedy,8.7,Scarlett,Hanks,Jackson,8,761,260
+762,WandaVision,Sci-Fi,7.1,Scarlett,Lawrence,Fincher,5,762,702
+763,Stranger Things,Action,8.6,Brad,DiCaprio,Coppola,8,763,972
+764,Game of Thrones,Action,8.2,Chris,Hemsworth,Cameron,4,764,459
+765,The Mandalorian,Sci-Fi,9.0,Chris,Hanks,Jackson,3,765,702
+766,WandaVision,Sci-Fi,8.1,Tom,Jolie,Nolan,7,766,417
+767,Stranger Things,Sci-Fi,8.4,Tom,Pitt,Scott,7,767,948
+768,The Office,Sci-Fi,9.3,Tom,Jolie,Coppola,8,768,572
+769,WandaVision,Comedy,8.7,Emma,Downey,Nolan,1,769,505
+770,The Mandalorian,Action,8.8,Leonardo,DiCaprio,Fincher,2,770,159
+771,Dark,Sci-Fi,8.6,Robert,Lawrence,Spielberg,3,771,99
+772,The Mandalorian,Fantasy,8.1,Brad,DiCaprio,Cuarón,3,772,786
+773,Game of Thrones,Fantasy,7.9,Emma,Watson,Coppola,4,773,219
+774,The Mandalorian,Drama,8.2,Tom,Lawrence,Jackson,6,774,893
+775,Game of Thrones,Drama,7.2,Scarlett,Portman,Spielberg,9,775,44
+776,The Mandalorian,Sci-Fi,8.0,Robert,Lawrence,Cameron,5,776,102
+777,Game of Thrones,Drama,7.0,Jennifer,Lawrence,Fincher,10,777,146
+778,Stranger Things,Sci-Fi,8.5,Scarlett,Hemsworth,Spielberg,9,778,934
+779,The Office,Fantasy,7.9,Brad,Downey,Jackson,3,779,684
+780,WandaVision,Action,7.4,Natalie,Jolie,Cuarón,6,780,615
+781,Game of Thrones,Drama,7.9,Emma,Downey,Scorsese,7,781,223
+782,The Crown,Action,7.9,Tom,DiCaprio,Cuarón,9,782,570
+783,Stranger Things,Drama,9.0,Leonardo,Jolie,Nolan,8,783,865
+784,Breaking Bad,Action,7.7,Brad,DiCaprio,Coppola,5,784,793
+785,WandaVision,Comedy,8.6,Brad,Lawrence,Jackson,3,785,406
+786,WandaVision,Drama,8.7,Robert,Portman,Nolan,4,786,147
+787,The Office,Comedy,9.1,Chris,Jolie,Jackson,5,787,963
+788,The Mandalorian,Action,8.1,Robert,Watson,Scorsese,8,788,971
+789,Stranger Things,Drama,8.0,Tom,Pitt,Cuarón,8,789,135
+790,WandaVision,Comedy,7.9,Scarlett,Pitt,Nolan,2,790,935
+791,The Mandalorian,Sci-Fi,8.6,Natalie,Jolie,Scott,3,791,811
+792,The Mandalorian,Sci-Fi,9.3,Emma,Pitt,Tarantino,10,792,266
+793,Breaking Bad,Action,9.4,Angelina,Jolie,Scorsese,6,793,623
+794,Game of Thrones,Drama,8.9,Robert,Lawrence,Scott,5,794,158
+795,Loki,Fantasy,9.4,Robert,Watson,Fincher,3,795,302
+796,WandaVision,Drama,9.4,Leonardo,Watson,Jackson,5,796,23
+797,Dark,Drama,9.3,Tom,Johansson,Nolan,5,797,122
+798,Dark,Action,8.8,Angelina,Hanks,Scorsese,8,798,597
+799,Breaking Bad,Sci-Fi,7.4,Brad,DiCaprio,Scorsese,8,799,425
+800,Stranger Things,Comedy,9.4,Tom,Portman,Scott,8,800,194
+801,WandaVision,Comedy,8.3,Jennifer,Pitt,Jackson,10,801,647
+802,Stranger Things,Comedy,9.1,Leonardo,Downey,Coppola,6,802,300
+803,WandaVision,Sci-Fi,7.1,Angelina,Johansson,Spielberg,7,803,671
+804,Game of Thrones,Drama,8.6,Natalie,Lawrence,Spielberg,8,804,125
+805,Friends,Action,8.1,Emma,Hemsworth,Jackson,3,805,766
+806,The Mandalorian,Comedy,8.1,Emma,Lawrence,Spielberg,1,806,180
+807,Game of Thrones,Action,7.1,Brad,Pitt,Coppola,4,807,876
+808,Loki,Fantasy,8.8,Jennifer,DiCaprio,Scott,6,808,493
+809,Friends,Drama,7.4,Tom,Watson,Scott,7,809,489
+810,Stranger Things,Sci-Fi,9.5,Angelina,Hanks,Scott,7,810,980
+811,Loki,Sci-Fi,7.1,Tom,Watson,Jackson,10,811,270
+812,The Office,Comedy,7.1,Angelina,Hanks,Scott,10,812,299
+813,The Mandalorian,Action,9.3,Tom,Portman,Coppola,8,813,121
+814,Breaking Bad,Drama,9.4,Robert,Downey,Fincher,6,814,521
+815,The Crown,Fantasy,8.8,Tom,Downey,Tarantino,9,815,139
+816,Friends,Sci-Fi,9.4,Tom,Portman,Coppola,9,816,825
+817,The Mandalorian,Comedy,7.4,Brad,Portman,Spielberg,3,817,601
+818,Game of Thrones,Sci-Fi,8.7,Angelina,Hemsworth,Cuarón,5,818,906
+819,Friends,Sci-Fi,8.5,Robert,Jolie,Fincher,9,819,342
+820,Stranger Things,Action,7.8,Leonardo,Pitt,Nolan,8,820,652
+821,Breaking Bad,Drama,9.3,Jennifer,DiCaprio,Fincher,8,821,231
+822,WandaVision,Comedy,7.0,Tom,Lawrence,Scott,2,822,65
+823,Friends,Action,8.0,Angelina,Downey,Nolan,9,823,795
+824,Dark,Action,8.8,Leonardo,Lawrence,Nolan,5,824,698
+825,Friends,Action,8.0,Brad,Hanks,Scott,8,825,556
+826,Dark,Action,8.2,Jennifer,Watson,Fincher,2,826,428
+827,Breaking Bad,Action,8.0,Emma,Portman,Jackson,5,827,786
+828,The Mandalorian,Fantasy,7.5,Emma,Jolie,Cameron,1,828,483
+829,The Crown,Drama,7.3,Tom,Hemsworth,Nolan,2,829,813
+830,Friends,Comedy,7.8,Jennifer,Watson,Nolan,2,830,114
+831,Game of Thrones,Sci-Fi,8.5,Robert,Portman,Nolan,7,831,304
+832,Dark,Comedy,7.9,Jennifer,Hemsworth,Spielberg,9,832,177
+833,Loki,Action,8.3,Angelina,Johansson,Jackson,3,833,493
+834,The Crown,Action,9.0,Scarlett,Hanks,Cuarón,7,834,928
+835,Friends,Fantasy,7.5,Robert,Pitt,Spielberg,1,835,747
+836,Breaking Bad,Drama,7.1,Robert,Pitt,Fincher,6,836,187
+837,Stranger Things,Fantasy,7.5,Scarlett,Pitt,Coppola,7,837,989
+838,The Mandalorian,Drama,9.3,Robert,Lawrence,Coppola,4,838,332
+839,The Mandalorian,Fantasy,8.7,Natalie,DiCaprio,Cuarón,1,839,586
+840,Game of Thrones,Fantasy,7.2,Scarlett,Hemsworth,Tarantino,8,840,118
+841,Breaking Bad,Action,7.6,Natalie,Johansson,Tarantino,8,841,958
+842,Game of Thrones,Drama,7.8,Jennifer,DiCaprio,Spielberg,3,842,441
+843,Loki,Sci-Fi,8.9,Scarlett,Hemsworth,Jackson,8,843,144
+844,The Mandalorian,Fantasy,7.7,Emma,Lawrence,Spielberg,10,844,877
+845,Stranger Things,Sci-Fi,7.0,Jennifer,Hanks,Jackson,7,845,385
+846,Breaking Bad,Action,7.3,Tom,Downey,Coppola,7,846,477
+847,The Office,Sci-Fi,7.1,Natalie,Portman,Cuarón,8,847,211
+848,WandaVision,Drama,7.1,Brad,DiCaprio,Cameron,6,848,197
+849,Game of Thrones,Drama,8.5,Emma,Jolie,Fincher,1,849,494
+850,Friends,Drama,8.1,Tom,Pitt,Jackson,8,850,285
+851,Breaking Bad,Comedy,7.2,Robert,Portman,Jackson,2,851,259
+852,Loki,Action,7.4,Emma,Lawrence,Nolan,5,852,458
+853,Dark,Action,7.2,Scarlett,Hemsworth,Coppola,6,853,889
+854,Stranger Things,Action,8.2,Chris,Watson,Scott,9,854,232
+855,Loki,Sci-Fi,7.5,Jennifer,Watson,Scorsese,2,855,458
+856,The Crown,Fantasy,8.5,Emma,Watson,Cuarón,7,856,982
+857,The Office,Comedy,8.1,Jennifer,Pitt,Fincher,10,857,852
+858,Breaking Bad,Action,9.1,Emma,Johansson,Fincher,7,858,172
+859,Stranger Things,Fantasy,8.6,Jennifer,Downey,Spielberg,6,859,45
+860,The Office,Fantasy,8.8,Angelina,Lawrence,Tarantino,4,860,866
+861,WandaVision,Action,8.4,Emma,Watson,Tarantino,5,861,759
+862,Breaking Bad,Fantasy,8.4,Leonardo,Downey,Cuarón,7,862,305
+863,Loki,Action,9.3,Tom,Johansson,Scott,9,863,530
+864,The Crown,Sci-Fi,8.2,Leonardo,Watson,Jackson,2,864,975
+865,Friends,Action,7.7,Tom,Downey,Fincher,6,865,650
+866,The Crown,Fantasy,8.6,Brad,Watson,Spielberg,6,866,236
+867,The Office,Fantasy,7.7,Jennifer,Lawrence,Tarantino,2,867,719
+868,Breaking Bad,Drama,7.2,Jennifer,Downey,Scorsese,9,868,81
+869,Breaking Bad,Sci-Fi,8.4,Brad,Hanks,Jackson,5,869,135
+870,Stranger Things,Action,7.4,Jennifer,Watson,Jackson,2,870,582
+871,Loki,Drama,9.3,Natalie,Portman,Scorsese,6,871,107
+872,WandaVision,Drama,7.7,Leonardo,Hanks,Jackson,1,872,889
+873,Breaking Bad,Action,8.7,Natalie,Watson,Scott,6,873,96
+874,Friends,Sci-Fi,9.2,Emma,DiCaprio,Nolan,2,874,911
+875,Dark,Comedy,9.2,Scarlett,Lawrence,Cuarón,4,875,434
+876,Dark,Sci-Fi,7.8,Jennifer,Pitt,Spielberg,1,876,867
+877,WandaVision,Sci-Fi,8.0,Robert,Hemsworth,Nolan,7,877,884
+878,Game of Thrones,Action,9.4,Chris,Johansson,Nolan,4,878,984
+879,Dark,Fantasy,9.5,Emma,Downey,Tarantino,9,879,585
+880,Breaking Bad,Action,7.3,Tom,Portman,Scott,1,880,634
+881,The Mandalorian,Sci-Fi,8.5,Natalie,Hemsworth,Spielberg,1,881,330
+882,The Mandalorian,Comedy,8.7,Emma,Portman,Nolan,8,882,499
+883,Stranger Things,Action,8.7,Natalie,DiCaprio,Tarantino,10,883,129
+884,Game of Thrones,Sci-Fi,8.1,Jennifer,Pitt,Cameron,1,884,443
+885,WandaVision,Fantasy,8.1,Angelina,Portman,Scorsese,8,885,684
+886,Loki,Fantasy,8.3,Tom,Pitt,Scorsese,10,886,751
+887,WandaVision,Sci-Fi,8.0,Tom,Hemsworth,Nolan,6,887,348
+888,Loki,Drama,9.0,Chris,Hanks,Cuarón,6,888,325
+889,WandaVision,Drama,7.9,Leonardo,DiCaprio,Cuarón,3,889,372
+890,Loki,Fantasy,8.6,Robert,Lawrence,Nolan,4,890,638
+891,The Mandalorian,Action,9.0,Tom,Lawrence,Scorsese,3,891,5
+892,The Office,Comedy,9.5,Angelina,Portman,Nolan,3,892,908
+893,The Crown,Fantasy,7.9,Natalie,Johansson,Fincher,2,893,832
+894,Friends,Action,7.9,Brad,Jolie,Nolan,10,894,394
+895,Breaking Bad,Comedy,7.6,Leonardo,Portman,Cuarón,7,895,102
+896,Friends,Sci-Fi,9.2,Jennifer,Jolie,Spielberg,3,896,634
+897,Dark,Drama,8.5,Jennifer,Pitt,Cameron,3,897,751
+898,Friends,Comedy,9.0,Natalie,Watson,Nolan,4,898,165
+899,WandaVision,Comedy,8.5,Jennifer,Portman,Cuarón,1,899,815
+900,Dark,Comedy,8.2,Chris,Portman,Nolan,5,900,474
+901,Friends,Fantasy,7.7,Emma,Johansson,Fincher,3,901,65
+902,Dark,Action,7.7,Angelina,Pitt,Nolan,5,902,997
+903,Friends,Action,9.1,Emma,Watson,Fincher,3,903,513
+904,The Office,Drama,8.1,Leonardo,Johansson,Nolan,3,904,258
+905,Loki,Action,7.1,Natalie,Hanks,Fincher,5,905,541
+906,Breaking Bad,Comedy,8.8,Leonardo,Lawrence,Jackson,4,906,729
+907,Loki,Action,7.5,Leonardo,Portman,Scott,2,907,485
+908,The Mandalorian,Comedy,9.5,Angelina,Johansson,Fincher,9,908,982
+909,The Mandalorian,Comedy,8.1,Angelina,Johansson,Scott,5,909,908
+910,The Crown,Sci-Fi,9.3,Robert,Jolie,Cameron,6,910,360
+911,The Office,Drama,7.2,Emma,DiCaprio,Scott,8,911,295
+912,Breaking Bad,Comedy,8.0,Natalie,DiCaprio,Jackson,10,912,4
+913,Friends,Fantasy,7.5,Robert,Downey,Scott,4,913,89
+914,Loki,Action,7.2,Emma,Hanks,Coppola,9,914,163
+915,WandaVision,Action,7.9,Jennifer,Portman,Cuarón,2,915,427
+916,Loki,Sci-Fi,8.3,Scarlett,Jolie,Scorsese,7,916,158
+917,Stranger Things,Action,7.1,Chris,Johansson,Tarantino,8,917,740
+918,The Crown,Sci-Fi,8.0,Jennifer,Johansson,Coppola,8,918,19
+919,Loki,Sci-Fi,8.7,Jennifer,Downey,Tarantino,1,919,338
+920,Game of Thrones,Fantasy,8.7,Jennifer,Watson,Jackson,10,920,888
+921,The Crown,Action,7.1,Scarlett,Hanks,Tarantino,7,921,223
+922,Game of Thrones,Sci-Fi,7.6,Natalie,Hemsworth,Tarantino,7,922,377
+923,Game of Thrones,Sci-Fi,8.9,Emma,Portman,Spielberg,4,923,154
+924,WandaVision,Action,7.6,Angelina,Pitt,Cameron,9,924,872
+925,The Mandalorian,Sci-Fi,8.8,Robert,Portman,Tarantino,3,925,542
+926,The Office,Comedy,8.7,Angelina,Portman,Nolan,3,926,435
+927,WandaVision,Comedy,8.3,Jennifer,Portman,Scott,7,927,698
+928,Dark,Drama,7.6,Tom,Pitt,Tarantino,8,928,937
+929,Stranger Things,Fantasy,7.4,Brad,Johansson,Coppola,4,929,106
+930,Game of Thrones,Fantasy,8.8,Natalie,DiCaprio,Nolan,1,930,480
+931,Loki,Drama,8.4,Brad,DiCaprio,Jackson,5,931,375
+932,The Mandalorian,Drama,7.3,Chris,Downey,Fincher,1,932,273
+933,Dark,Fantasy,8.2,Emma,DiCaprio,Cuarón,10,933,596
+934,Game of Thrones,Action,7.5,Leonardo,Lawrence,Nolan,3,934,192
+935,Dark,Comedy,8.9,Leonardo,Jolie,Nolan,4,935,842
+936,The Mandalorian,Comedy,8.0,Scarlett,Hemsworth,Cuarón,5,936,698
+937,Dark,Drama,8.7,Natalie,Jolie,Coppola,5,937,406
+938,The Office,Comedy,9.3,Natalie,Hemsworth,Cuarón,3,938,589
+939,Dark,Comedy,7.7,Angelina,Lawrence,Cameron,9,939,356
+940,Dark,Comedy,9.3,Robert,Downey,Coppola,9,940,204
+941,Dark,Sci-Fi,9.5,Tom,Watson,Cuarón,8,941,569
+942,Friends,Fantasy,7.5,Emma,Watson,Cuarón,1,942,774
+943,Dark,Sci-Fi,8.7,Leonardo,Watson,Nolan,10,943,933
+944,Stranger Things,Comedy,7.0,Brad,Johansson,Fincher,7,944,317
+945,Game of Thrones,Sci-Fi,8.1,Chris,Jolie,Jackson,5,945,712
+946,Stranger Things,Comedy,8.4,Robert,Pitt,Nolan,2,946,759
+947,Stranger Things,Action,8.9,Brad,Johansson,Fincher,7,947,437
+948,Game of Thrones,Fantasy,8.7,Jennifer,Portman,Cameron,8,948,69
+949,WandaVision,Comedy,7.8,Natalie,Downey,Nolan,10,949,62
+950,Dark,Sci-Fi,8.9,Emma,DiCaprio,Nolan,2,950,65
+951,The Crown,Sci-Fi,8.1,Tom,Hemsworth,Tarantino,4,951,666
+952,Breaking Bad,Action,8.8,Angelina,Hanks,Scorsese,4,952,965
+953,Dark,Comedy,8.4,Scarlett,Portman,Jackson,1,953,672
+954,Dark,Action,7.1,Chris,Downey,Fincher,3,954,99
+955,WandaVision,Action,7.1,Scarlett,Downey,Cuarón,5,955,50
+956,Stranger Things,Fantasy,9.4,Robert,Portman,Nolan,9,956,159
+957,The Crown,Comedy,8.9,Scarlett,Hemsworth,Nolan,3,957,380
+958,Breaking Bad,Comedy,9.4,Jennifer,Pitt,Scott,2,958,819
+959,Loki,Drama,8.0,Tom,Lawrence,Coppola,8,959,406
+960,The Office,Drama,7.9,Brad,Pitt,Cuarón,3,960,225
+961,Dark,Action,9.4,Jennifer,Hanks,Fincher,3,961,412
+962,Breaking Bad,Sci-Fi,8.5,Natalie,DiCaprio,Spielberg,2,962,857
+963,Dark,Sci-Fi,8.5,Robert,Pitt,Nolan,10,963,109
+964,Friends,Comedy,8.6,Robert,Pitt,Fincher,10,964,155
+965,Game of Thrones,Action,7.9,Brad,Hanks,Scott,4,965,811
+966,WandaVision,Comedy,9.3,Tom,Pitt,Nolan,5,966,107
+967,The Mandalorian,Drama,8.0,Scarlett,Pitt,Coppola,5,967,439
+968,WandaVision,Action,9.3,Chris,Johansson,Nolan,8,968,788
+969,Friends,Sci-Fi,7.4,Leonardo,Johansson,Cuarón,1,969,661
+970,Friends,Action,8.4,Natalie,Hanks,Fincher,5,970,252
+971,Game of Thrones,Sci-Fi,7.8,Jennifer,Downey,Nolan,1,971,133
+972,The Office,Drama,9.5,Leonardo,Pitt,Cuarón,6,972,373
+973,The Office,Sci-Fi,7.1,Scarlett,Johansson,Cameron,7,973,9
+974,The Crown,Drama,9.1,Jennifer,Downey,Scott,7,974,649
+975,The Crown,Drama,8.5,Chris,Hanks,Spielberg,1,975,701
+976,Stranger Things,Comedy,7.9,Chris,Jolie,Scott,5,976,438
+977,Stranger Things,Action,8.4,Natalie,Jolie,Spielberg,5,977,758
+978,Loki,Comedy,7.7,Leonardo,Jolie,Coppola,5,978,612
+979,Breaking Bad,Comedy,8.2,Scarlett,Watson,Spielberg,3,979,90
+980,The Mandalorian,Comedy,7.6,Tom,Hanks,Coppola,9,980,145
+981,WandaVision,Fantasy,7.1,Emma,DiCaprio,Coppola,10,981,81
+982,Dark,Sci-Fi,9.3,Brad,Hemsworth,Jackson,3,982,641
+983,Stranger Things,Fantasy,7.5,Tom,Downey,Nolan,2,983,570
+984,Breaking Bad,Sci-Fi,7.1,Natalie,Pitt,Tarantino,3,984,270
+985,The Mandalorian,Drama,7.2,Leonardo,Portman,Scorsese,1,985,888
+986,Stranger Things,Drama,9.2,Brad,DiCaprio,Spielberg,5,986,607
+987,Game of Thrones,Comedy,7.7,Chris,Downey,Tarantino,10,987,469
+988,The Crown,Action,7.1,Angelina,Downey,Cuarón,10,988,191
+989,The Mandalorian,Action,7.9,Brad,Downey,Scott,1,989,816
+990,Game of Thrones,Drama,7.0,Robert,Johansson,Spielberg,1,990,653
+991,Game of Thrones,Action,7.2,Angelina,Portman,Scorsese,4,991,403
+992,The Office,Sci-Fi,8.3,Chris,Portman,Spielberg,3,992,770
+993,The Crown,Sci-Fi,8.3,Leonardo,Watson,Cuarón,3,993,92
+994,Friends,Fantasy,9.0,Brad,Johansson,Cameron,5,994,967
+995,Game of Thrones,Drama,8.2,Scarlett,Hemsworth,Spielberg,7,995,701
+996,Stranger Things,Comedy,8.5,Emma,Pitt,Jackson,2,996,926
+997,The Crown,Fantasy,7.2,Tom,Pitt,Cameron,10,997,850
+998,Breaking Bad,Comedy,9.2,Robert,Portman,Cameron,3,998,58
+999,Loki,Fantasy,7.8,Leonardo,Pitt,Scorsese,7,999,15
+1000,Friends,Comedy,8.6,Leonardo,Pitt,Nolan,8,1000,666
