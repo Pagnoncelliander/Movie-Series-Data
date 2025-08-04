@@ -14,9 +14,11 @@
 
  ## 1) Introduction
 
-In this assessment, we explore a dataset containing 4601 rows and 59 columns, aiming to uncover insights while addressing common challenges such as missing values, data type inconsistencies.
-The primary focus of this assessment is to process the dataset through key steps of Data Cleaning and Preparation and apply Principal Component Analysis (PCA) to optimize its usability for machine learning. By systematically cleaning and transforming the data, we ensure its integrity and prepare it for advanced analytical techniques.
-Data Cleaning and Preparation: This involves resolving issues like missing or inconsistent data types, removing duplicate rows, and verifying the dataset's readiness. The importance of these steps lies in improving data reliability and eliminating noise that could hinder model performance.Principal Component Analysis (PCA): PCA is implemented to reduce the dimensionality of the dataset while retaining its essential features. This step addresses the challenge of high-dimensional data by summarizing it into a manageable number of principal components.
+ The base objective of the project is to demonstrate and explain the Big Data paradigm, focusing on how MySQL can be used to efficiently organize and manage large volumes of media data. Additionally, the project explores how SQL can simplify database tasks and provide solutions for data analysis.  
+
+ The database will consist of several connected tables with specific structure below:
+Users, UserSeriesActivity, movies, series, directors and actors. the primary keys identify each record in a table, while foreign keys establish relationships between tables to maintain referential integrity.
+
 
 ## 2) Data Cleaning and Preparation
 
