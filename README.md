@@ -37,10 +37,10 @@ __Table	Links To (Foreign Key)	Relationship Description__
 This query aims to retrieve all movies in which the actor Leonardo DiCaprio played the role of protagonist. The INNER JOIN clause is used to combine records from the actors and movies tables based on a common key: actors.id_actor = movies.id_protagonist. This relationship ensures that only movies with valid references to an actor as a protagonist are selected.	
 
 
-Code:
+__Code:__
 <img width="454" height="140" alt="Image" src="https://github.com/user-attachments/assets/a7698a34-c075-458f-ba8a-4450ae425f6e" />
 
-code result:
+__code result:__
 <img width="326" height="107" alt="Image" src="https://github.com/user-attachments/assets/cc8d1432-4664-4155-a44d-1c6637246aff" />
 
 #### Explained Variance 
