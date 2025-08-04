@@ -32,20 +32,12 @@ __Table	Links To (Foreign Key)	Relationship Description__
  * UserSeriesActivity	➡️ users, series	➡️Tracks which users watched which series
 
 
-## 2) Data Cleaning and Preparation
+## 3) Managing Movie Release Dates in Relational Databases: Add Years Movie Released
 
-I noted that the dataset contains 4601 rows and 59 columns, and several columns have missing values. Some columns, such as word_freq_our, word_freq_000, word_freq_hpl, and word_freq_labs, are of object type but should likely be numeric.
+This query aims to retrieve all movies in which the actor Leonardo DiCaprio played the role of protagonist. The INNER JOIN clause is used to combine records from the actors and movies tables based on a common key: actors.id_actor = movies.id_protagonist. This relationship ensures that only movies with valid references to an actor as a protagonist are selected.	
 
-I started by removing the first column, 'Unnamed', and converting all object columns to numeric using a function. After that, I filled the null values with 0 to complete Nan rows. To check for any issues, I used the info() function to verify if all the information was correct.
-duplicated rows
- 
-Data Cleaning Steps:
-1. Drop the Unnamed: 0 column.
-2. Convert object columns to numeric (handling any errors).
-3. check and handle missing values (fill NaN with 0).
-4. Check for duplicate rows and remove them if any.
-5. Verify data integrity after cleaning.
 
+Code:
 
 #### Explained Variance 
 
