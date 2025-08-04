@@ -38,6 +38,9 @@ This query aims to retrieve all movies in which the actor Leonardo DiCaprio play
 
 
 Code:
+<img width="637" height="369" alt="Image" src="https://github.com/user-attachments/assets/7adbf672-5369-436b-bbb0-054392e12de8" />
+
+code result:
 
 #### Explained Variance 
 
