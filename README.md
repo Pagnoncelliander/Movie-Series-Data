@@ -23,7 +23,7 @@ Users, UserSeriesActivity, movies, series, directors and actors. the primary key
 https://github.com/Pagnoncelliander/Movie-Series-Data/issues/1#issue-3289224730
 
 
-Table explanation:
+
 
 __Table	Links To (Foreign Key)	Relationship Description__
  * movies ➡️	actors, directors	➡️ Connects each movie to one actor and one director
