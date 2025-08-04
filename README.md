@@ -22,6 +22,16 @@ Users, UserSeriesActivity, movies, series, directors and actors. the primary key
 <img width="637" height="369" alt="Image" src="https://github.com/user-attachments/assets/05a21b50-7f4c-4c2d-acc4-9188d1db4d0d" />
 https://github.com/Pagnoncelliander/Movie-Series-Data/issues/1#issue-3289224730
 
+
+Table explanation:
+
+__Table	Links To (Foreign Key)	Relationship Description__
+ * movies ➡️	actors, directors	➡️ Connects each movie to one actor and one director
+ * series	➡️actors, directors ➡️	Connects each series to one actor and one director
+ * UserMoviesActivity	➡️ users, movies	➡️Tracks which users watched which movies
+ * UserSeriesActivity	➡️ users, series	➡️Tracks which users watched which series
+
+
 ## 2) Data Cleaning and Preparation
 
 I noted that the dataset contains 4601 rows and 59 columns, and several columns have missing values. Some columns, such as word_freq_our, word_freq_000, word_freq_hpl, and word_freq_labs, are of object type but should likely be numeric.
