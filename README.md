@@ -19,6 +19,7 @@
  The database will consist of several connected tables with specific structure below:
 Users, UserSeriesActivity, movies, series, directors and actors. the primary keys identify each record in a table, while foreign keys establish relationships between tables to maintain referential integrity.
 
+https://github.com/Pagnoncelliander/Movie-Series-Data/issues/1#issue-3289224730
 
 ## 2) Data Cleaning and Preparation
 
