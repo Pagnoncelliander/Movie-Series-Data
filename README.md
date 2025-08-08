@@ -32,7 +32,7 @@ __Table	Links To (Foreign Key)	Relationship Description__
  * UserSeriesActivity	➡️ users, series	➡️Tracks which users watched which series
 
 
-## 3) Managing Movie Release Dates in Relational Databases: Add Years Movie Released
+## 2) Managing Movie Release Dates in Relational Databases: Add Years Movie Released
 
 This query aims to retrieve all movies in which the actor Leonardo DiCaprio played the role of protagonist. The INNER JOIN clause is used to combine records from the actors and movies tables based on a common key: actors.id_actor = movies.id_protagonist. This relationship ensures that only movies with valid references to an actor as a protagonist are selected.	
 
@@ -48,7 +48,7 @@ __code result:__
 <img width="326" height="107" alt="Image" src="https://github.com/user-attachments/assets/cc8d1432-4664-4155-a44d-1c6637246aff" />
 
 
-#### Total Movie Appearances of a Famous Protagonist Actor ‘Leonardo DiCaprio’
+#### 3)Total Movie Appearances of a Famous Protagonist Actor ‘Leonardo DiCaprio’
 
 This query aims to retrieve all movies in which the actor Leonardo DiCaprio played the role of
 protagonist. The INNER JOIN clause is used to combine records from the actors and movies
@@ -59,52 +59,56 @@ ensures that only movies with valid references to an actor as a protagonist are 
 
 __Result:__
 
+<img width="410" height="160" alt="Image" src="https://github.com/user-attachments/assets/c7f2723b-e80b-49c5-bdec-27d017cb2403" />
 
 
-## 5) Principal Component Analysis (PCA) 
+## 4) List of directors commonly chosen by each user.
 
-This query aims to retrieve all movies in which the actor Leonardo DiCaprio played the role of
-protagonist. The INNER JOIN clause is used to combine records from the actors and movies
-tables based on a common key: actors.id_actor = movies.id_protagonist. This relationship
-ensures that only movies with valid references to an actor as a protagonist are selected.
+To improve project, a new list is generated using functions such as GROUP_CONCAT to count
+the number of directors users usually choose when they decide to watch a series. First, the
+COUNT function, as we learned in class, is used to determine the number of directors,
+followed by GROUP_CONCAT. The JOIN function is an important way to navigate through the
+tables and obtain the result
 
+__Code:__
+<img width="561" height="267" alt="image" src="https://github.com/user-attachments/assets/ca12ae87-8295-4b14-aa0b-5aa48019c5fc" />
 
-
-
-## 6) Machine Learning Method 
-
-
-
-## 7) Conclusion
-
-The dataset consists of 4601 rows and 59 columns, with some missing values. After cleaning the data (removing the 'Unnamed' column, converting object columns to numeric, and filling missing values), I verified the dataset using the info() function.
-To determine the optimal number of principal components for PCA, I removed the 'spam' column (the independent variable) and analyzed the explained_variance_ratio_. I tested various numbers of components and found that 10 components provided the best analytical performance. PCA was applied to reduce the dimensionality, and StandardScaler was used for data normalization.
-For machine learning, I tested multiple models to achieve 99% accuracy. The Random Forest model, which uses decision trees and averaging to improve accuracy, stood out. It achieved an average accuracy of 98.72% with a low standard deviation (0.75%), indicating high performance and consistency. A box plot was used to visualize the results.
-In conclusion, Random Forest was the most effective model, and PCA helped improve the analysis by reducing dimensionality obtain a significant result bellow:
-
-- **540** is the number of non-spam correctly classified as non-spam (true negative).
-- **12** is the number of non-spam classified as spam (false positive).
-- **16** is the number of spam classified as non-spam (false negative).
-- **353** is the number of spam correctly classified as spam (true positive).
+__Result__
+<img width="501" height="159" alt="Image" src="https://github.com/user-attachments/assets/8092c44a-e6a8-4683-8136-cf2f437bc8ae" />
 
 
-## 8) References
 
-{1} Stack Overflow (2016) Better way to drop NaN rows in pandas. Available at: https://stackoverflow.com/questions/36370839/better-way-to-drop-nan-rows-in-pandas (Accessed: 20 June 2024).
+## 5) Conclusion
 
-{2}Stack Overflow (2014) Selecting pandas columns by dtype. Available at: https://stackoverflow.com/questions/21271581/selecting-pandas-columns-by-dtype (Accessed: 20 December 2024).
+The Ireflix project demonstrates the integration of SQL and MySQL in building and scalable
+streaming platform capable of managing large datasets. By implementing a relational
+database structure, the platform ensures efficient organization of information related to
+movies, series, users, and their interactions. Key database operations such as INNER JOIN,
+ALTER TABLE, and UPDATE were employed to manipulate and analyze data, including tracking
+actor participation and updating release dates
 
-{3}Pandas Documentation (n.d.) pandas.DataFrame.select_dtypes. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.select_dtypes.html (Accessed: 20 December 2024).
 
-{4}Pandas Documentation (n.d.) pandas.to_numeric. Available at: https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html (Accessed: 20 December 2024).
 
-{5}Stack Overflow (2014) How to convert column to numeric in pandas. Available at: https://stackoverflow.com/questions/21997808/how-to-convert-column-to-numeric-in-pandas (Accessed: 20 December 2024).
+## 6) References
 
-{6}Ryan & Matt Dataset. (7 de set. de 2023). Title of video. Website name. Available at: URL (Accessed: 10 December 2024).
-PCA Analysis in Python Explained (Scikit - Learn).YouTube. Available at: https://www.youtube.com/watch?v=6uwa9EkUqpg (Accessed: 10/12/2024).
+- DuBois, P. (2013) MySQL. 5th edn. Boston: Addison-Wesley. Available at:
+https://books.google.com.br/books?hl=ptBR&lr=&id=JgFTUsIC0bUC&oi=fnd&pg=PT31&dq=mysql&ots=DuVJzOPxJn&sig=E3CjmEiknsz
+WUDv825pVsfXdODk#v=onepage&q&f=false (Accessed: 17 May 2025).
 
-{7}Ryan & Matt Data Science. 2023r).Python Feature Scaling in SciKit-Learn (Normalization vs Standardization)o. YouTube. Available at: https://www.youtube.com/watch?v=6eJHk8JYK2M (Accessed 19 December 2024r).
+- Oracle. (2024). What is MySQL? MySQL 8.4 Reference Manual. Available at:
+https://dev.mysql.com/doc/refman/8.4/en/what-is-mysql.html [Accessed 20 May 2025].
 
-{8}scikit-learn (2024) sklearn.ensemble.RandomForestClassifier, version 1.5. Available at: https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestClassifier.html (Accessed: 20 June 2024).
+- Amazon Web Services. (n.d.). What is SQL?. Available at: https://aws.amazon.com/whatis/sql/ [Accessed 19 May 2025].
 
-{9}Ryan & Matt Data Science. 2023).Random Forest Algorithm Explained with Python and scikit-learn (Normalization vs Standardization)o. YouTube. Available at: https://www.youtube.com/watch?v=_QuGM_FW9eo (Accessed 19 December 2024).
+- W3Schools, 2024. SQL INNER JOIN Keyword. [online] Available at:
+https://www.w3schools.com/sql/sql_join_inner.asp [Accessed 2 Jun. 2025].
+
+- Stack Overflow, 2012. SQL Count from inner join. [online] Available at:
+https://stackoverflow.com/questions/10475218/sql-count-from-inner-join [Accessed 2 Jun.
+2025].
+
+- Pure Storage. (n.d.). What is MongoDB and how does it work? Retrieved June 2, 2025,
+from https://www.purestorage.com/uk/knowledge/what-is-mongodb.html
+
+{7}Spiegel, P. (2016) 'GROUP_CONCAT multiple fields with a different separator', Stack
+Overflow, 7 August. Available at: https://stackoverflow.com/questions/38816859/groupconcat-multiple-fields-with-a-different-separator (Accessed: 2 June 2025).
