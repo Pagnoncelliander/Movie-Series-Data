@@ -48,7 +48,7 @@ __code result:__
 <img width="326" height="107" alt="Image" src="https://github.com/user-attachments/assets/cc8d1432-4664-4155-a44d-1c6637246aff" />
 
 
-#### Explained Variance 
+#### Total Movie Appearances of a Famous Protagonist Actor ‘Leonardo DiCaprio’
 
 In this step, I create a graph to understand which principal component is most suitable for applying PCA. The column spam (from the spam_dataset) is the independent variable that has been removed from the dataset. The explained_variance_ratio_ is an attribute of the PCA object that indicates the proportion of variance explained by each of the principal components. The graph shows the relationship between the number of components (ranging from 2 to 10) and the performance of the analysis. In this case, I tested around 10 different numbers of components, and 10 components proved to be the optimal choice for achieving better analytical performance.
 
@@ -58,14 +58,12 @@ In this step, I create a graph to understand which principal component is most s
 
 ## 5) Principal Component Analysis (PCA) 
 
-PCA is a technique to reduce the number of features while retaining as much variance as possible. This is useful when dealing with high-dimensional data. The StandardScaler was applied to the dataset, and After normalization technique has been applied, as shown in the class on 18/11 (StandardScaler). With this, it was possible to apply PCA and reduce the dimensionality, obtaining 10 independent components (columns) and 1 dependent column to better use the data in machine learning.
+This query aims to retrieve all movies in which the actor Leonardo DiCaprio played the role of
+protagonist. The INNER JOIN clause is used to combine records from the actors and movies
+tables based on a common key: actors.id_actor = movies.id_protagonist. This relationship
+ensures that only movies with valid references to an actor as a protagonist are selected.
 
-1. Apply the StandardScaler to all the columns of the DataFrame.
-2. Normalize Data
-3. Apply PCA
-4. Created a New columns to replace the data frame
-5. Replace the names of spam column "True" and "False" to numbers 0 and 1.
-6. A new DataFrame is created with the columns from spam_pca (independent variables) and the column df["is_spam"] (dependent variable).
+
 
 
 ## 6) Machine Learning Method 
