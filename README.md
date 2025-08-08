@@ -110,5 +110,5 @@ https://stackoverflow.com/questions/10475218/sql-count-from-inner-join [Accessed
 - Pure Storage. (n.d.). What is MongoDB and how does it work? Retrieved June 2, 2025,
 from https://www.purestorage.com/uk/knowledge/what-is-mongodb.html
 
-Spiegel, P. (2016) 'GROUP_CONCAT multiple fields with a different separator', Stack
+- Spiegel, P. (2016) 'GROUP_CONCAT multiple fields with a different separator', Stack
 Overflow, 7 August. Available at: https://stackoverflow.com/questions/38816859/groupconcat-multiple-fields-with-a-different-separator (Accessed: 2 June 2025).
