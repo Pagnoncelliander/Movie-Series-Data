@@ -50,9 +50,15 @@ __code result:__
 
 #### Total Movie Appearances of a Famous Protagonist Actor ‘Leonardo DiCaprio’
 
-In this step, I create a graph to understand which principal component is most suitable for applying PCA. The column spam (from the spam_dataset) is the independent variable that has been removed from the dataset. The explained_variance_ratio_ is an attribute of the PCA object that indicates the proportion of variance explained by each of the principal components. The graph shows the relationship between the number of components (ranging from 2 to 10) and the performance of the analysis. In this case, I tested around 10 different numbers of components, and 10 components proved to be the optimal choice for achieving better analytical performance.
+This query aims to retrieve all movies in which the actor Leonardo DiCaprio played the role of
+protagonist. The INNER JOIN clause is used to combine records from the actors and movies
+tables based on a common key: actors.id_actor = movies.id_protagonist. This relationship
+ensures that only movies with valid references to an actor as a protagonist are selected.
 
 <img width="613" height="205" alt="Image" src="https://github.com/user-attachments/assets/d1c8ba4a-8e47-45d0-b304-9bb09c1ba617" />
+
+__Result:__
+
 
 
 ## 5) Principal Component Analysis (PCA) 
@@ -67,18 +73,7 @@ ensures that only movies with valid references to an actor as a protagonist are 
 
 ## 6) Machine Learning Method 
 
-In this part of the project, I imported some libraries for machine learning tests to identify which one best fits to achieve 99% accuracy. The Random Forest model stood out, as mentioned on the scikit-learn website.
 
-A Random Forest is a meta-estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve predictive accuracy and control overfitting{8}.
-
-This method showed the highest level of accuracy, indicating that the model achieved an average performance of 98.72%. The small standard deviation (0.75%) suggests that the model is consistent. A box plot was created to better visualize each test.
-
-Explanation
-1. Train-Test Split: The dataset is split into 80% training and 20% testing data.
-2. Predictions: The model predicts the is_spam class for the test data.
-3. Model Training: some models is fitted on the training data and test.
-4. Boxplot has been ploted to undertand whic model is better.
-5. The Random Florest model has shown better performance and was implemented.
 
 ## 7) Conclusion
 
